@@ -65,6 +65,7 @@
       "minecraft:beach": "2025-03-19 21:52:02 +0000",
       "minecraft:river": "2025-03-19 22:05:02 +0000",
       "minecraft:stony_shore": "2025-03-20 16:42:01 +0000",
+      "minecraft:grove": "2025-03-20 20:54:23 +0000",
       "minecraft:forest": "2025-03-19 21:56:40 +0000",
       "minecraft:jungle": "2025-03-19 21:53:00 +0000",
       "minecraft:ocean": "2025-03-19 22:46:12 +0000",
@@ -589,6 +590,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-20 20:51:19 +0000",
       "cooked_beef": "2025-03-20 00:15:36 +0000",
       "baked_potato": "2025-03-19 22:21:49 +0000",
       "apple": "2025-03-19 22:10:10 +0000",

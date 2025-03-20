@@ -64,6 +64,7 @@
       "minecraft:birch_forest": "2025-03-20 20:23:41 +0000",
       "minecraft:beach": "2025-03-19 21:38:35 +0000",
       "minecraft:river": "2025-03-19 22:03:20 +0000",
+      "minecraft:grove": "2025-03-20 20:54:36 +0000",
       "minecraft:forest": "2025-03-19 21:42:12 +0000",
       "minecraft:jungle": "2025-03-19 21:39:41 +0000",
       "minecraft:ocean": "2025-03-19 22:45:37 +0000",
@@ -97,6 +98,7 @@
       "old_growth_woodland": "2025-03-19 22:04:26 +0000",
       "overgrown_greens": "2025-03-20 20:21:22 +0000",
       "mediterranean_forest": "2025-03-19 23:19:56 +0000",
+      "spider_nest": "2025-03-20 20:51:50 +0000",
       "redwood_forest": "2025-03-19 22:42:43 +0000",
       "dune_beach": "2025-03-19 22:42:56 +0000",
       "prairie": "2025-03-19 22:42:52 +0000",
@@ -546,6 +548,8 @@
       "minecraft:ravager": "2025-03-20 20:28:14 +0000",
       "minecraft:piglin_brute": "2025-03-19 22:21:39 +0000",
       "minecraft:spider": "2025-03-19 22:10:31 +0000",
+      "minecraft:creeper": "2025-03-20 21:03:18 +0000",
+      "minecraft:cave_spider": "2025-03-20 21:07:41 +0000",
       "minecraft:piglin": "2025-03-19 22:24:39 +0000",
       "minecraft:zombie": "2025-03-19 22:11:01 +0000"
     },
@@ -2047,11 +2051,59 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "allthemodium:recipes/misc/teleport_pad": {
     "criteria": {
-      "requirement": "2025-03-20 20:48:15 +0000"
+      "has_ender_pearl": "2025-03-20 21:02:50 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-03-20 20:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-20 21:07:02 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-20 21:03:48 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-03-20 20:50:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-03-20 20:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-20 21:07:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-20 21:07:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-20 21:07:02 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

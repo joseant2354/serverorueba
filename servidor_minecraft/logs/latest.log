@@ -2189,3 +2189,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [20Mar2025 20:45:26.342] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Teopiter
 [20Mar2025 20:45:29.372] [Server thread/INFO] [do_a_barrel_roll/]: Client of Teopiter accepted server config.
 [20Mar2025 20:48:53.021] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/708, l='ServerLevel[world]', x=2905.30, y=65.52, z=968.30] died, message: 'Unemployed was slain by Drowned'
+[20Mar2025 21:03:48.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Penteconter]
+[20Mar2025 21:09:52.431] [Server thread/WARN] [tombstone/]: The death event of the player Teopiter was canceled by another mod
+[20Mar2025 21:09:52.441] [Server thread/INFO] [tombstone/]: The player Teopiter has successfully been saved
+[20Mar2025 21:10:30.165] [Server thread/WARN] [tombstone/]: The death event of the player Teopiter was canceled by another mod
+[20Mar2025 21:10:30.170] [Server thread/INFO] [tombstone/]: The player Teopiter has successfully been saved
