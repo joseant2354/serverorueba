@@ -2194,3 +2194,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [20Mar2025 21:09:52.441] [Server thread/INFO] [tombstone/]: The player Teopiter has successfully been saved
 [20Mar2025 21:10:30.165] [Server thread/WARN] [tombstone/]: The death event of the player Teopiter was canceled by another mod
 [20Mar2025 21:10:30.170] [Server thread/INFO] [tombstone/]: The player Teopiter has successfully been saved
+[20Mar2025 21:20:02.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Cover Me with Diamonds]
+[20Mar2025 21:26:19.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has reached the goal [Statue's Bargain]
+[20Mar2025 21:26:53.166] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsReaper_13 lost connection: Disconnected
+[20Mar2025 21:26:53.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 left the game
+[20Mar2025 21:28:32.466] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4lv4r0_ lost connection: Disconnected
+[20Mar2025 21:28:32.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ left the game
+[20Mar2025 21:29:22.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teopiter lost connection: Disconnected
+[20Mar2025 21:29:22.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter left the game
