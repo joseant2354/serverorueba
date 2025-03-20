@@ -14871,3 +14871,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [20Mar2025 23:33:56.366] [Server thread/INFO] [Jade/]: Syncing config to ItsReaper_13 (06ff6de7-f288-359f-848a-e6b66b4db818)
 [20Mar2025 23:34:06.715] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from ItsReaper_13
 [20Mar2025 23:34:14.112] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsReaper_13 accepted server config.
+[20Mar2025 23:35:43.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 23:35:43.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 23:37:00.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsReaper_13 lost connection: Disconnected
+[20Mar2025 23:37:00.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 left the game
+[20Mar2025 23:40:43.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 23:40:43.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 23:45:43.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 23:45:43.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
