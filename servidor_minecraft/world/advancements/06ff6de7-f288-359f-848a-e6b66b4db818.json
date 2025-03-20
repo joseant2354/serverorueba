@@ -68,6 +68,7 @@
       "minecraft:jungle": "2025-03-19 21:41:03 +0000",
       "minecraft:ocean": "2025-03-19 22:45:38 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-20 15:44:52 +0000",
+      "minecraft:meadow": "2025-03-20 15:57:58 +0000",
       "minecraft:plains": "2025-03-19 22:43:25 +0000"
     },
     "done": false
@@ -2846,6 +2847,12 @@
     },
     "done": true
   },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-03-20 16:10:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-03-20 15:02:27 +0000"
@@ -2990,6 +2997,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-03-20 16:14:00 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-03-20 16:07:30 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
     "criteria": {
       "has_logs": "2025-03-20 15:39:43 +0000"
@@ -3017,6 +3036,12 @@
   "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-03-20 15:02:27 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-03-20 16:10:53 +0000"
     },
     "done": true
   },
@@ -3089,6 +3114,12 @@
   "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-20 15:39:49 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-03-20 16:10:53 +0000"
     },
     "done": true
   },

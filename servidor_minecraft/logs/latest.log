@@ -2072,3 +2072,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [20Mar2025 15:53:49.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [Funeral Theft]
 [20Mar2025 15:54:54.767] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [20Mar2025 15:54:54.768] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Mar2025 16:01:54.677] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/22480, l='ServerLevel[world]', x=2921.72, y=56.00, z=959.63] died, message: 'Unemployed suffocated in a wall'
+[20Mar2025 16:07:30.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has reached the goal [Pray to the Goddess]
+[20Mar2025 16:07:39.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has reached the goal [Pray to the Goddess]
+[20Mar2025 16:10:53.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has reached the goal [Half a flight]
+[20Mar2025 16:11:03.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has reached the goal [Half a flight]
