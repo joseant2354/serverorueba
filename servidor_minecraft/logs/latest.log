@@ -2202,3 +2202,16 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [20Mar2025 21:28:32.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ left the game
 [20Mar2025 21:29:22.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teopiter lost connection: Disconnected
 [20Mar2025 21:29:22.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter left the game
+[20Mar2025 21:43:51.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsReaper_13[/127.100.143.205:47957] logged in with entity id 12784 at (2757.300000011921, 20.0, 1070.699999988079)
+[20Mar2025 21:43:51.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 joined the game
+[20Mar2025 21:43:51.403] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to ItsReaper_13
+[20Mar2025 21:43:51.404] [Server thread/INFO] [Jade/]: Syncing config to ItsReaper_13 (06ff6de7-f288-359f-848a-e6b66b4db818)
+[20Mar2025 21:43:52.157] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from ItsReaper_13
+[20Mar2025 21:43:55.563] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsReaper_13 accepted server config.
+[20Mar2025 21:51:07.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Teopiter[/127.49.188.182:43577] logged in with entity id 14689 at (2736.3245648041297, 20.0, 1109.782270152151)
+[20Mar2025 21:51:07.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter joined the game
+[20Mar2025 21:51:07.826] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Teopiter
+[20Mar2025 21:51:07.827] [Server thread/INFO] [Jade/]: Syncing config to Teopiter (ed29a93d-9849-3f13-9ddb-e0e5a8376ec0)
+[20Mar2025 21:51:08.127] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Teopiter
+[20Mar2025 21:51:11.023] [Server thread/INFO] [do_a_barrel_roll/]: Client of Teopiter accepted server config.
+[20Mar2025 22:00:20.371] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/13712, l='ServerLevel[world]', x=2930.07, y=56.05, z=933.70] died, message: 'Librarian was slain by Zombie'
