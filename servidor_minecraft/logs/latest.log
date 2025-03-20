@@ -2055,3 +2055,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [20Mar2025 15:13:45.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has reached the goal [Bone Crusher]
 [20Mar2025 15:14:10.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [Ice Bucket Challenge]
 [20Mar2025 15:16:39.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [How'd You Get This?]
+[20Mar2025 15:30:00.178] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Andy the Gorilla Slaughterer'/5535, l='ServerLevel[world]', x=1511.70, y=117.00, z=801.70] died: Andy the Gorilla Slaughterer was slain by 4lv4r0_
+[20Mar2025 15:34:10.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Ambush]
+[20Mar2025 15:36:49.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Tools of the Trade]
