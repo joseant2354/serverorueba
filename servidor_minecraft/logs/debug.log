@@ -14384,3 +14384,238 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [20Mar2025 16:12:08.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Mar2025 16:17:08.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Mar2025 16:17:08.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 16:18:59.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <4lv4r0_> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[20Mar2025 16:22:08.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 16:22:08.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 16:23:10.131] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (2644 | 18 | 1105)
+[20Mar2025 16:23:10.131] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (2644 | 18 | 1105)
+[20Mar2025 16:24:06.067] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (2731 | 42 | 1156)
+[20Mar2025 16:24:06.068] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (2731 | 42 | 1156)
+[20Mar2025 16:24:06.068] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (2725 | 37 | 1151)
+[20Mar2025 16:24:06.068] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (2725 | 37 | 1151)
+[20Mar2025 16:24:06.068] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (2730 | 37 | 1162)
+[20Mar2025 16:24:06.068] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (2730 | 37 | 1162)
+[20Mar2025 16:24:06.068] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_180 at (2729 | 37 | 1156)
+[20Mar2025 16:24:06.068] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_180 at (2729 | 37 | 1156)
+[20Mar2025 16:24:06.068] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (2725 | 37 | 1150)
+[20Mar2025 16:24:06.068] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (2725 | 37 | 1150)
+[20Mar2025 16:24:06.092] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (2737 | 37 | 1151)
+[20Mar2025 16:24:06.092] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (2737 | 37 | 1151)
+[20Mar2025 16:24:06.092] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation NONE at (2737 | 37 | 1156)
+[20Mar2025 16:24:06.092] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation NONE at (2737 | 37 | 1156)
+[20Mar2025 16:24:06.092] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (2730 | 37 | 1162)
+[20Mar2025 16:24:06.093] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (2730 | 37 | 1162)
+[20Mar2025 16:24:06.094] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (2725 | 37 | 1150)
+[20Mar2025 16:24:06.094] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (2725 | 37 | 1150)
+[20Mar2025 16:24:06.453] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2688, y=-4, z=1160}
+[20Mar2025 16:24:06.453] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2669, y=-4, z=1159}
+[20Mar2025 16:24:06.463] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2687, y=-4, z=1178}
+[20Mar2025 16:24:06.464] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2669, y=-4, z=1159}
+[20Mar2025 16:24:06.464] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2667, y=-4, z=1152}
+[20Mar2025 16:24:06.464] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2684, y=-4, z=1160}
+[20Mar2025 16:24:06.464] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2686, y=-4, z=1166}
+[20Mar2025 16:24:07.102] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2669, y=-4, z=1159}
+[20Mar2025 16:24:07.102] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2667, y=-4, z=1152}
+[20Mar2025 16:24:09.306] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2721, y=96, z=1173} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:24:09.337] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2693, y=-11, z=1178}
+[20Mar2025 16:24:09.338] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2697, y=-11, z=1177}
+[20Mar2025 16:24:09.342] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2687, y=-18, z=1187}
+[20Mar2025 16:24:09.343] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2687, y=-4, z=1178}
+[20Mar2025 16:24:09.353] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2692, y=-4, z=1195}
+[20Mar2025 16:24:09.353] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2688, y=-4, z=1160}
+[20Mar2025 16:24:09.354] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2693, y=-11, z=1178}
+[20Mar2025 16:24:09.354] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2693, y=-18, z=1168}
+[20Mar2025 16:24:09.355] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2697, y=-11, z=1177}
+[20Mar2025 16:24:09.361] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2690, y=102, z=1171} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:24:14.893] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2737, y=94, z=1185} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[20Mar2025 16:24:14.900] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2725, y=98, z=1194} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:24:14.904] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2693, y=-11, z=1178}
+[20Mar2025 16:24:14.944] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2694, y=-4, z=1210}
+[20Mar2025 16:24:14.944] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2695, y=-18, z=1199}
+[20Mar2025 16:24:14.945] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2692, y=-4, z=1195}
+[20Mar2025 16:24:14.945] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2693, y=-11, z=1178}
+[20Mar2025 16:24:14.955] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2694, y=-4, z=1210}
+[20Mar2025 16:24:14.955] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2685, y=-4, z=1207}
+[20Mar2025 16:24:14.956] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2687, y=-18, z=1187}
+[20Mar2025 16:24:16.650] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2703, y=-4, z=1216}
+[20Mar2025 16:24:16.657] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2700, y=-4, z=1231}
+[20Mar2025 16:24:16.657] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2694, y=-4, z=1210}
+[20Mar2025 16:24:16.658] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2703, y=-4, z=1216}
+[20Mar2025 16:24:16.658] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2695, y=-18, z=1199}
+[20Mar2025 16:24:16.666] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2691, y=113, z=1208} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:24:16.670] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2700, y=-4, z=1231}
+[20Mar2025 16:24:16.671] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2694, y=-4, z=1210}
+[20Mar2025 16:24:16.671] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2685, y=-4, z=1207}
+[20Mar2025 16:24:17.695] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2626, y=85, z=1152} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:24:17.700] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2624, y=91, z=1175} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[20Mar2025 16:24:21.855] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2716, y=-4, z=1231}
+[20Mar2025 16:24:21.862] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2701, y=-4, z=1225}
+[20Mar2025 16:24:21.863] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2703, y=-4, z=1216}
+[20Mar2025 16:24:21.863] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2716, y=-4, z=1231}
+[20Mar2025 16:24:21.863] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2713, y=-4, z=1226}
+[20Mar2025 16:24:21.865] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2706, y=110, z=1222} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:24:22.043] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2700, y=-4, z=1231}
+[20Mar2025 16:24:22.044] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2701, y=-4, z=1225}
+[20Mar2025 16:24:22.045] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2703, y=-4, z=1216}
+[20Mar2025 16:24:22.045] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2713, y=-4, z=1226}
+[20Mar2025 16:24:22.064] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2700, y=-4, z=1231}
+[20Mar2025 16:24:32.890] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=-4, z=1232}
+[20Mar2025 16:24:32.898] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2659, y=-4, z=1242}
+[20Mar2025 16:24:32.898] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2641, y=-4, z=1248}
+[20Mar2025 16:24:32.898] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2647, y=-4, z=1243}
+[20Mar2025 16:24:33.001] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=-4, z=1232}
+[20Mar2025 16:24:33.015] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=-4, z=1232}
+[20Mar2025 16:24:33.047] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2641, y=-4, z=1248}
+[20Mar2025 16:24:33.047] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2647, y=-4, z=1243}
+[20Mar2025 16:24:33.047] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2640, y=-4, z=1242}
+[20Mar2025 16:24:33.110] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=-4, z=1232}
+[20Mar2025 16:24:33.136] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2640, y=-4, z=1242}
+[20Mar2025 16:24:33.137] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2627, y=-4, z=1241}
+[20Mar2025 16:24:33.137] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2608, y=-4, z=1248}
+[20Mar2025 16:24:33.146] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2629, y=122, z=1232} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:24:52.495] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=3172, y=108, z=1155} Block{productivebees:bumble_bee_nest}[facing=north]
+[20Mar2025 16:25:01.497] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/skeleton_armored_0 is being run through DFU (hash 0b114af481df7368765dfcb485fd7685ad7c029bd69ef06a87e635e2b056efcd), this will cause launch time delays
+[20Mar2025 16:25:01.568] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_road_0 is being run through DFU (hash cd59cca472ec362a97b1a1854dfa82099f282d0fb9a21cc66cf573803f206ab1), this will cause launch time delays
+[20Mar2025 16:25:01.574] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/illusioner_normal_0 is being run through DFU (hash 6f23502f1c946861055d5d38e3de8e783681f1bc18b8a4d6bac34080fd1ef525), this will cause launch time delays
+[20Mar2025 16:25:01.576] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/skeleton_armored_1 is being run through DFU (hash 496ef0a3e5b47f98675b8246248b31e2cbd0e71657b6cdad6f6576e693b9ec35), this will cause launch time delays
+[20Mar2025 16:25:01.580] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_road_1 is being run through DFU (hash fc7cf9b3399e33f8a4f8c473d3039ecaef66e6d1ab6c26b8b95945c01d37f77f), this will cause launch time delays
+[20Mar2025 16:25:01.589] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_deco_2 is being run through DFU (hash 4877d9540f462f4e764118c96ee010c1a1c0fc09840836544a613d3288536b5b), this will cause launch time delays
+[20Mar2025 16:25:01.597] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_deco_0 is being run through DFU (hash 3150906baca61326478732513f3d5915ca880b0f6ae445407fb1dbc4e8afcbe7), this will cause launch time delays
+[20Mar2025 16:25:01.605] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_road_entrance is being run through DFU (hash 05f8cd9492c5bbdbec92626c83fcaea8444e57e04ec5360ee8bfeda3ee24e5a7), this will cause launch time delays
+[20Mar2025 16:25:01.636] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_deco_1 is being run through DFU (hash 061faa8196076029c0f030bfdfb16e8f5271981a55c1aeca93cd5f4df5e8603c), this will cause launch time delays
+[20Mar2025 16:25:04.808] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=3225, y=122, z=1191} Block{productivebees:stone_nest}[facing=west]
+[20Mar2025 16:25:10.009] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=3238, y=109, z=1180} Block{productivebees:stone_nest}[facing=up]
+[20Mar2025 16:27:08.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 16:27:08.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 16:27:13.291] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=-4, z=1232}
+[20Mar2025 16:27:13.295] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2701, y=-11, z=1284}
+[20Mar2025 16:27:13.338] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=-4, z=1232}
+[20Mar2025 16:27:13.343] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2701, y=-11, z=1284}
+[20Mar2025 16:27:13.351] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=-4, z=1232}
+[20Mar2025 16:27:13.354] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2700, y=-4, z=1261}
+[20Mar2025 16:27:13.354] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2701, y=-11, z=1284}
+[20Mar2025 16:27:13.361] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2672, y=-4, z=1232}
+[20Mar2025 16:27:13.366] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2680, y=9, z=1261}
+[20Mar2025 16:27:13.366] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2700, y=-4, z=1261}
+[20Mar2025 16:27:13.387] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2659, y=-4, z=1242}
+[20Mar2025 16:27:13.388] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2641, y=-4, z=1248}
+[20Mar2025 16:27:13.388] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2658, y=-4, z=1249}
+[20Mar2025 16:27:13.391] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2641, y=-4, z=1248}
+[20Mar2025 16:27:13.392] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2640, y=-4, z=1242}
+[20Mar2025 16:27:13.392] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2658, y=-4, z=1249}
+[20Mar2025 16:27:13.403] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2640, y=-4, z=1242}
+[20Mar2025 16:27:13.403] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2638, y=-4, z=1251}
+[20Mar2025 16:27:13.403] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2608, y=-4, z=1248}
+[20Mar2025 16:27:14.091] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2617, y=84, z=1089} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:27:14.101] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2612, y=89, z=1063} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:27:14.497] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2609, y=87, z=1149} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[20Mar2025 16:27:14.566] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2608, y=-4, z=1248}
+[20Mar2025 16:27:14.566] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2619, y=-4, z=1249}
+[20Mar2025 16:27:14.581] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2619, y=96, z=1200} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:27:14.591] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2608, y=-4, z=1248}
+[20Mar2025 16:27:14.592] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2607, y=-4, z=1243}
+[20Mar2025 16:27:16.294] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2600, y=86, z=1158} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[20Mar2025 16:27:16.500] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2595, y=98, z=1203} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[20Mar2025 16:27:16.562] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2607, y=-4, z=1243}
+[20Mar2025 16:27:17.314] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2700, y=-4, z=1261}
+[20Mar2025 16:27:17.315] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2701, y=-11, z=1284}
+[20Mar2025 16:27:17.317] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2681, y=2, z=1276}
+[20Mar2025 16:27:17.317] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2685, y=2, z=1275}
+[20Mar2025 16:27:17.461] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2680, y=9, z=1261}
+[20Mar2025 16:27:17.461] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2700, y=-4, z=1261}
+[20Mar2025 16:27:17.461] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2680, y=9, z=1288}
+[20Mar2025 16:27:17.462] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2681, y=2, z=1276}
+[20Mar2025 16:27:17.462] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2685, y=2, z=1275}
+[20Mar2025 16:27:17.484] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2671, y=9, z=1286}
+[20Mar2025 16:27:17.493] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2671, y=9, z=1286}
+[20Mar2025 16:27:17.505] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2644, y=137, z=1269} Block{productivebees:snow_nest}[facing=north]
+[20Mar2025 16:27:18.069] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2701, y=-11, z=1284}
+[20Mar2025 16:27:18.087] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2701, y=-11, z=1284}
+[20Mar2025 16:27:18.792] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2588, y=95, z=1049} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:27:18.855] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2580, y=87, z=1153} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:27:19.287] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2578, y=102, z=1233} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:27:19.674] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2701, y=-11, z=1284}
+[20Mar2025 16:27:19.802] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2701, y=-11, z=1284}
+[20Mar2025 16:27:19.804] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2710, y=-11, z=1285}
+[20Mar2025 16:27:19.816] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2701, y=-11, z=1284}
+[20Mar2025 16:27:19.818] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2681, y=2, z=1276}
+[20Mar2025 16:27:19.819] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2710, y=-11, z=1285}
+[20Mar2025 16:27:19.827] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2680, y=9, z=1288}
+[20Mar2025 16:27:19.827] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2673, y=9, z=1289}
+[20Mar2025 16:27:19.828] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2681, y=2, z=1276}
+[20Mar2025 16:27:20.261] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2671, y=9, z=1286}
+[20Mar2025 16:27:20.263] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2660, y=16, z=1304}
+[20Mar2025 16:27:20.263] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2661, y=16, z=1287}
+[20Mar2025 16:27:20.277] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2656, y=122, z=1285} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:27:20.282] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2671, y=9, z=1286}
+[20Mar2025 16:27:20.284] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2655, y=16, z=1297}
+[20Mar2025 16:27:20.344] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2592, y=121, z=1287} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[20Mar2025 16:27:21.746] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2568, y=90, z=1159} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:27:21.770] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2564, y=95, z=1190} Block{productivebees:birch_wood_nest}[axis=y,facing=east]
+[20Mar2025 16:27:22.003] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2564, y=101, z=1291} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[20Mar2025 16:27:23.397] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2673, y=9, z=1289}
+[20Mar2025 16:27:23.397] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2662, y=15, z=1297}
+[20Mar2025 16:27:23.415] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2662, y=15, z=1297}
+[20Mar2025 16:27:23.417] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2660, y=16, z=1304}
+[20Mar2025 16:27:23.417] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2661, y=15, z=1307}
+[20Mar2025 16:27:23.417] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2656, y=16, z=1305}
+[20Mar2025 16:27:23.417] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2661, y=16, z=1287}
+[20Mar2025 16:27:23.434] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2655, y=16, z=1297}
+[20Mar2025 16:27:23.621] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2711, y=77, z=1299} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:27:24.379] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2547, y=105, z=1011} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:27:24.419] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2545, y=98, z=1063} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[20Mar2025 16:27:24.468] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2544, y=93, z=1108} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:27:26.338] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2662, y=15, z=1297}
+[20Mar2025 16:27:26.404] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2662, y=15, z=1297}
+[20Mar2025 16:27:26.404] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2656, y=16, z=1305}
+[20Mar2025 16:27:26.405] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2655, y=16, z=1328}
+[20Mar2025 16:27:26.405] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2661, y=16, z=1312}
+[20Mar2025 16:27:26.425] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2655, y=16, z=1328}
+[20Mar2025 16:27:26.425] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2655, y=16, z=1321}
+[20Mar2025 16:27:26.611] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2561, y=98, z=1314} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:27:26.611] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2560, y=99, z=1318} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[20Mar2025 16:27:28.643] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2541, y=102, z=1171} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:27:28.662] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2528, y=98, z=1196} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[20Mar2025 16:27:29.136] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2530, y=96, z=1217} Block{productivebees:oak_wood_nest}[axis=y,facing=east]
+[20Mar2025 16:27:29.274] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2528, y=81, z=1299} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:27:31.290] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2512, y=87, z=1241} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:27:31.596] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2521, y=81, z=1272} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:27:31.600] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2519, y=111, z=996} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[20Mar2025 16:27:31.600] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2518, y=108, z=999} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:27:36.417] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2497, y=97, z=1222} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[20Mar2025 16:27:38.928] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2483, y=152, z=1101} Block{productivebees:snow_nest}[facing=north]
+[20Mar2025 16:27:39.519] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2482, y=113, z=1035} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[20Mar2025 16:27:44.869] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2468, y=113, z=1032} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[20Mar2025 16:30:34.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [An Impostor Amoung Us]
+[20Mar2025 16:30:37.235] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2655, y=16, z=1328}
+[20Mar2025 16:30:37.235] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2664, y=16, z=1329}
+[20Mar2025 16:30:37.386] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2655, y=16, z=1328}
+[20Mar2025 16:30:37.630] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2547, y=88, z=1331} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:30:38.008] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2499, y=95, z=1333} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:31:02.908] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2592, y=93, z=1351} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:31:27.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [Chompy]
+[20Mar2025 16:31:44.850] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=3087, y=86, z=1323} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:31:58.505] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2885, y=105, z=1386} Block{productivebees:stone_nest}[facing=up]
+[20Mar2025 16:32:01.651] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2817, y=99, z=1402} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[20Mar2025 16:32:04.427] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2800, y=93, z=1410} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:32:04.625] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2881, y=92, z=1418} Block{productivebees:stone_nest}[facing=up]
+[20Mar2025 16:32:05.087] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=3009, y=117, z=1415} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:32:05.147] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=3039, y=112, z=1419} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:32:08.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 16:32:08.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 16:32:12.878] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2834, y=98, z=1427} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[20Mar2025 16:32:12.996] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2865, y=119, z=1432} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[20Mar2025 16:32:13.704] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=3088, y=107, z=1434} Block{productivebees:oak_wood_nest}[axis=y,facing=down]
+[20Mar2025 16:32:16.975] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2838, y=88, z=1442} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:32:17.133] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2864, y=117, z=1442} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[20Mar2025 16:32:17.991] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=3124, y=101, z=1449} Block{productivebees:oak_wood_nest}[axis=y,facing=down]
+[20Mar2025 16:32:39.389] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2717, y=128, z=1487} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:32:39.595] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2899, y=115, z=1477} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[20Mar2025 16:32:52.840] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2819, y=82, z=1495} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[20Mar2025 16:33:09.040] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=2628, y=50, z=1404} Block{productivebees:stone_nest}[facing=up]
+[20Mar2025 16:36:20.456] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=3265, y=87, z=916} Block{productivebees:stone_nest}[facing=up]
+[20Mar2025 16:36:28.316] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=3316, y=93, z=929} Block{productivebees:stone_nest}[facing=south]
+[20Mar2025 16:37:08.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 16:37:08.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 16:37:25.359] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=3490, y=70, z=615} Block{productivebees:bumble_bee_nest}[facing=west]
+[20Mar2025 16:37:47.690] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=3603, y=69, z=541} Block{productivebees:bumble_bee_nest}[facing=north]

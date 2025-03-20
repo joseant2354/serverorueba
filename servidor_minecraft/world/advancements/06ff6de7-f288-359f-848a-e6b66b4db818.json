@@ -61,9 +61,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-03-20 16:27:17 +0000",
       "minecraft:beach": "2025-03-19 21:41:14 +0000",
       "minecraft:dark_forest": "2025-03-20 15:46:18 +0000",
       "minecraft:river": "2025-03-19 22:02:57 +0000",
+      "minecraft:grove": "2025-03-20 16:27:28 +0000",
       "minecraft:forest": "2025-03-19 21:46:00 +0000",
       "minecraft:jungle": "2025-03-19 21:41:03 +0000",
       "minecraft:ocean": "2025-03-19 22:45:38 +0000",
@@ -280,6 +282,7 @@
       "woodland": "2025-03-19 21:46:05 +0000",
       "scrubland": "2025-03-19 23:21:24 +0000",
       "jacaranda_glade": "2025-03-19 22:44:18 +0000",
+      "jade_cliffs": "2025-03-20 16:27:23 +0000",
       "mystic_grove": "2025-03-20 15:53:47 +0000",
       "old_growth_woodland": "2025-03-19 22:04:08 +0000",
       "overgrown_greens": "2025-03-20 15:44:47 +0000",
@@ -321,6 +324,7 @@
       "minecraft:skeleton": "2025-03-19 23:13:49 +0000",
       "minecraft:piglin_brute": "2025-03-19 22:23:50 +0000",
       "minecraft:spider": "2025-03-19 21:56:03 +0000",
+      "minecraft:creeper": "2025-03-20 16:21:00 +0000",
       "minecraft:wither_skeleton": "2025-03-20 00:44:42 +0000",
       "minecraft:cave_spider": "2025-03-20 00:33:01 +0000",
       "minecraft:piglin": "2025-03-19 22:27:52 +0000",
@@ -2853,6 +2857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-03-20 16:26:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-03-20 15:02:27 +0000"
@@ -2865,9 +2875,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-03-20 16:26:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_2": {
+    "criteria": {
+      "has_spruce_plank": "2025-03-20 16:26:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_1": {
+    "criteria": {
+      "has_spruce_plank": "2025-03-20 16:26:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_4": {
+    "criteria": {
+      "has_spruce_plank": "2025-03-20 16:26:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_3": {
+    "criteria": {
+      "has_spruce_plank": "2025-03-20 16:26:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-03-20 15:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-03-20 16:26:08 +0000"
     },
     "done": true
   },
@@ -2880,6 +2926,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-03-20 15:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-20 16:26:08 +0000"
     },
     "done": true
   },
@@ -2967,6 +3019,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/spruce_chest": {
+    "criteria": {
+      "has_spruce_plank": "2025-03-20 16:26:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-03-20 15:02:27 +0000"
@@ -2982,6 +3040,12 @@
   "biomesoplenty:recipes/redstone/jacaranda_button": {
     "criteria": {
       "has_planks": "2025-03-20 15:39:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-03-20 16:26:08 +0000"
     },
     "done": true
   },
@@ -3015,6 +3079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-20 16:33:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-03-20 15:02:27 +0000"
@@ -3036,6 +3106,12 @@
   "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-03-20 15:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-03-20 16:26:08 +0000"
     },
     "done": true
   },
@@ -3111,6 +3187,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-20 16:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-03-20 16:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-20 16:26:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-20 15:39:49 +0000"
@@ -3135,9 +3229,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/spruce_barrel": {
+    "criteria": {
+      "has_spruce_plank": "2025-03-20 16:26:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-03-20 15:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-20 16:26:08 +0000"
     },
     "done": true
   },
