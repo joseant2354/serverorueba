@@ -5545,6 +5545,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-03-21 18:27:09 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2025-03-21 18:01:42 +0000"
@@ -5554,6 +5560,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2025-03-21 18:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-21 18:24:26 +0000"
     },
     "done": true
   },
@@ -5608,6 +5620,12 @@
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2025-03-21 18:01:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_advanced_jukebox_upgrade_from_backpack_advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-03-21 18:20:47 +0000"
     },
     "done": true
   },

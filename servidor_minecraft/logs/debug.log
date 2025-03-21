@@ -14055,3 +14055,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [21Mar2025 18:17:09.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Mar2025 18:17:09.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Mar2025 18:17:34.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsReaper_13> wa
+[21Mar2025 18:22:09.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 18:22:09.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 18:24:26.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Take Aim]
+[21Mar2025 18:27:09.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 18:27:09.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -2236,3 +2236,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [21Mar2025 18:13:55.612] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from 4lv4r0_
 [21Mar2025 18:13:57.852] [Server thread/INFO] [do_a_barrel_roll/]: Client of 4lv4r0_ accepted server config.
 [21Mar2025 18:17:34.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsReaper_13> wa
+[21Mar2025 18:24:26.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Take Aim]
