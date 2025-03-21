@@ -2164,3 +2164,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [21Mar2025 12:48:47.230] [Server thread/INFO] [do_a_barrel_roll/]: Client of Teopiter accepted server config.
 [21Mar2025 12:51:24.542] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Elaine the Rough'/1520, l='ServerLevel[world]', x=3562.70, y=67.00, z=4510.37] died: Elaine the Rough was slain by Teopiter
 [21Mar2025 12:51:30.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has completed the challenge [He Wasn't So Strong]
+[21Mar2025 13:06:00.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teopiter lost connection: Timed out
+[21Mar2025 13:06:00.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter left the game
+[21Mar2025 13:06:15.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Teopiter[/127.49.188.182:42833] logged in with entity id 6503 at (4242.738253949679, 80.0, 4975.838754217269)
+[21Mar2025 13:06:15.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter joined the game
+[21Mar2025 13:06:15.899] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Teopiter
+[21Mar2025 13:06:15.900] [Server thread/INFO] [Jade/]: Syncing config to Teopiter (ed29a93d-9849-3f13-9ddb-e0e5a8376ec0)
+[21Mar2025 13:06:16.235] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Teopiter
+[21Mar2025 13:06:19.512] [Server thread/INFO] [do_a_barrel_roll/]: Client of Teopiter accepted server config.
