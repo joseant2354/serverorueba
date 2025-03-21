@@ -14201,3 +14201,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [21Mar2025 19:32:09.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Mar2025 19:37:09.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Mar2025 19:37:09.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 19:42:09.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 19:42:09.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 19:42:59.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Gotta work, bees!]
+[21Mar2025 19:43:38.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Bigger is always better.]
