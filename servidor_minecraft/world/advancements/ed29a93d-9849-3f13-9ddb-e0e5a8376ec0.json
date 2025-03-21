@@ -112,6 +112,7 @@
       "rocky_shrubland": "2025-03-21 15:50:05 +0000",
       "scrubland": "2025-03-19 23:21:10 +0000",
       "floodplain": "2025-03-20 22:41:29 +0000",
+      "highland": "2025-03-21 18:49:31 +0000",
       "jacaranda_glade": "2025-03-19 22:44:15 +0000",
       "jade_cliffs": "2025-03-20 21:09:31 +0000",
       "mystic_grove": "2025-03-21 13:00:38 +0000",
@@ -5546,6 +5547,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-03-21 18:57:09 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2025-03-21 18:35:02 +0000"
@@ -5615,6 +5622,12 @@
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-21 18:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-03-21 18:41:32 +0000"
     },
     "done": true
   },
@@ -5726,6 +5739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-03-21 18:38:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_advanced_jukebox_upgrade_from_backpack_advanced_jukebox_upgrade": {
     "criteria": {
       "has_backpack_upgrade": "2025-03-21 18:20:47 +0000"
@@ -5771,6 +5790,12 @@
   "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
     "criteria": {
       "has_lavender": "2025-03-21 18:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-03-21 18:38:28 +0000"
     },
     "done": true
   },

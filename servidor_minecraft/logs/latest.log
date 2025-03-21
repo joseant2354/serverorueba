@@ -2246,3 +2246,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [21Mar2025 18:34:26.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Guns and Roses]
 [21Mar2025 18:34:48.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Guns and Roses]
 [21Mar2025 18:35:04.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [Guns and Roses]
+[21Mar2025 18:39:34.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsReaper_13 moved wrongly!
+[21Mar2025 18:58:36.635] [Server thread/WARN] [tombstone/]: The death event of the player Teopiter was canceled by another mod
+[21Mar2025 18:58:36.654] [Server thread/INFO] [tombstone/]: The player Teopiter has successfully been saved
