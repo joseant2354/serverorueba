@@ -76,6 +76,8 @@
       "minecraft:jungle": "2025-03-19 21:53:00 +0000",
       "minecraft:ocean": "2025-03-19 22:46:12 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-20 23:05:44 +0000",
+      "minecraft:flower_forest": "2025-03-21 13:11:11 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-21 13:15:11 +0000",
       "minecraft:meadow": "2025-03-20 15:50:57 +0000",
       "minecraft:plains": "2025-03-19 22:43:27 +0000"
     },
@@ -226,6 +228,7 @@
       "floodplain": "2025-03-20 23:01:33 +0000",
       "jacaranda_glade": "2025-03-19 23:01:47 +0000",
       "jade_cliffs": "2025-03-20 21:12:33 +0000",
+      "mystic_grove": "2025-03-21 13:16:17 +0000",
       "old_growth_woodland": "2025-03-19 22:05:22 +0000",
       "overgrown_greens": "2025-03-20 15:46:13 +0000",
       "mediterranean_forest": "2025-03-19 23:20:14 +0000",
@@ -3473,13 +3476,25 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
-      "log_spam_fixer": "2025-03-20 23:18:43 +0000"
+      "has_diamond_backpack": "2025-03-20 22:37:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-03-20 22:50:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-03-20 22:50:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-03-20 22:50:21 +0000"
     },
@@ -3491,99 +3506,129 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-20 23:18:43 +0000"
-    },
-    "done": false
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-03-20 22:37:31 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-20 23:18:43 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-03-20 22:50:21 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-20 23:18:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-20 23:18:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-20 23:18:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-20 23:18:43 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-03-20 22:50:21 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-20 23:18:43 +0000"
-    },
-    "done": false
-  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-03-20 23:09:14 +0000"
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-20 23:18:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-20 23:18:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-20 23:18:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-20 23:18:43 +0000"
-    },
-    "done": false
-  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-03-20 23:09:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 13:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-03-21 13:21:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-03-21 13:21:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_2": {
+    "criteria": {
+      "has_spruce_plank": "2025-03-21 13:21:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_1": {
+    "criteria": {
+      "has_spruce_plank": "2025-03-21 13:21:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_4": {
+    "criteria": {
+      "has_spruce_plank": "2025-03-21 13:21:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_3": {
+    "criteria": {
+      "has_spruce_plank": "2025-03-21 13:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-03-21 13:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-21 13:21:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_chest": {
+    "criteria": {
+      "has_spruce_plank": "2025-03-21 13:21:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-03-21 13:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-03-21 13:21:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-03-21 13:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-03-21 13:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-21 13:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-03-21 13:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-21 13:21:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_barrel": {
+    "criteria": {
+      "has_spruce_plank": "2025-03-21 13:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-21 13:21:12 +0000"
     },
     "done": true
   },
