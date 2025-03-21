@@ -2196,3 +2196,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [21Mar2025 14:51:37.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
 [21Mar2025 14:51:37.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4088, y=64, z=5110} BlockPos{x=4085, y=65, z=5110}
 [21Mar2025 14:53:37.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Pic-A-Nic Basket?]
+[21Mar2025 15:05:13.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Your First Receptacle]
+[21Mar2025 15:05:13.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Getting an Upgrade]
+[21Mar2025 15:06:50.195] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4869, y=11, z=5121} but found not block entity block Block{minecraft:water}[level=0] at location
+[21Mar2025 15:06:50.196] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=4869, y=11, z=5121}
+[21Mar2025 15:11:38.470] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Nick'/20462, l='ServerLevel[world]', x=5113.30, y=116.94, z=4567.35] died: Nick was slain by ItsReaper_13
+[21Mar2025 15:12:28.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Easter Egg Searcher]
+[21Mar2025 15:12:43.195] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[21Mar2025 15:12:43.274] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[21Mar2025 15:12:43.277] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[21Mar2025 15:12:43.292] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[21Mar2025 15:12:43.297] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[21Mar2025 15:12:43.420] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[21Mar2025 15:12:45.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4087ms or 81 ticks behind
+[21Mar2025 15:12:45.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teopiter moved too quickly! -3.616656744595275,3.0,-8.834013004354347

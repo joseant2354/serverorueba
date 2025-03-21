@@ -10835,3 +10835,397 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [21Mar2025 15:01:22.884] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4555, y=85, z=4441}
 [21Mar2025 15:01:36.528] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4483, y=88, z=4432} Block{productivebees:oak_wood_nest}[axis=y,facing=east]
 [21Mar2025 15:02:19.227] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4407, y=82, z=4464} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:04:56.754] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4992, y=101, z=4515} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:04:56.764] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4994, y=100, z=4511} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:04:57.299] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5006, y=93, z=4750} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:04:57.509] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4996, y=89, z=4788} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:04:57.526] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4995, y=88, z=4772} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:04:57.612] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4998, y=92, z=4814} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:04:57.620] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4998, y=91, z=4825} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:04:57.781] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4994, y=97, z=4868} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:04:57.789] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5004, y=82, z=4857} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:04:59.592] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5009, y=82, z=4669} Block{productivebees:stone_nest}[facing=west]
+[21Mar2025 15:04:59.700] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5015, y=91, z=4697} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:04:59.700] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5009, y=92, z=4699} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:04:59.714] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5009, y=91, z=4735} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:04:59.728] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5019, y=87, z=4759} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:05:00.499] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5010, y=88, z=4823} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:05:02.636] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5026, y=89, z=4708} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:05:02.707] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5030, y=98, z=4688} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:05:03.830] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4995, y=96, z=4916} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:05:03.908] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5012, y=94, z=4919} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:05:06.882] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5041, y=108, z=4665} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:05:06.890] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5043, y=113, z=4642} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:05:07.357] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5045, y=87, z=4753} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:05:12.086] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5059, y=118, z=4622} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:05:12.086] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5066, y=111, z=4616} Block{productivebees:bumble_bee_nest}[facing=east]
+[21Mar2025 15:05:12.195] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5056, y=89, z=4755} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:05:13.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Your First Receptacle]
+[21Mar2025 15:05:13.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Getting an Upgrade]
+[21Mar2025 15:05:23.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 15:05:23.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 15:05:50.536] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5072, y=114, z=4644} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:05:50.544] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5073, y=113, z=4639} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:05:50.943] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5074, y=110, z=4658} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:05:51.591] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4982, y=72, z=4979} Block{productivebees:bumble_bee_nest}[facing=up]
+[21Mar2025 15:05:54.379] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[21Mar2025 15:05:59.756] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5103, y=114, z=4612} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:06:01.495] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5117, y=113, z=4605} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:06:02.261] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[21Mar2025 15:06:02.283] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[21Mar2025 15:06:02.297] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[21Mar2025 15:06:07.690] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4853, y=66, z=5053} Block{productivebees:bumble_bee_nest}[facing=south]
+[21Mar2025 15:06:50.195] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4869, y=11, z=5121} but found not block entity block Block{minecraft:water}[level=0] at location
+[21Mar2025 15:06:50.196] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=4869, y=11, z=5121}
+[21Mar2025 15:07:24.519] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5123, y=67, z=4676} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:07:53.011] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5120, y=90, z=4657} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:07:55.084] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5123, y=106, z=4640} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:07:55.129] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5136, y=86, z=4651} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:07:59.389] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5138, y=103, z=4624} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:08:13.989] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5142, y=98, z=4592} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:08:14.048] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5189, y=80, z=4599} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:08:22.350] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5172, y=82, z=4562} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:08:28.103] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5170, y=87, z=4556} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=east]
+[21Mar2025 15:08:28.231] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5185, y=78, z=4558} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:08:28.253] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5206, y=72, z=4544} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:08:28.474] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5233, y=75, z=4559} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:08:30.179] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5186, y=81, z=4539} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:08:32.935] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5257, y=65, z=4694} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=east]
+[21Mar2025 15:08:35.239] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5269, y=63, z=4677} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:08:39.729] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5284, y=64, z=4669} Block{productivebees:sugar_cane_nest}[facing=north]
+[21Mar2025 15:08:43.142] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5308, y=65, z=4814} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:08:43.142] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5304, y=65, z=4807} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:08:43.206] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5302, y=70, z=4854} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:08:44.335] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5299, y=69, z=4955} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:08:45.746] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5327, y=65, z=4783} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:08:46.345] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5326, y=71, z=4870} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:08:48.483] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5338, y=65, z=4648} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=east]
+[21Mar2025 15:08:48.686] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5331, y=65, z=4789} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:08:48.878] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5330, y=75, z=4874} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:08:49.090] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5334, y=66, z=4556} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:08:49.090] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5329, y=66, z=4557} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:08:49.190] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5328, y=66, z=4530} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:08:49.626] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5253, y=71, z=4523} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:08:49.884] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5168, y=87, z=4524} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:08:50.336] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5330, y=70, z=4512} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:08:57.440] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5356, y=80, z=4853} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:08:57.491] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5355, y=74, z=4892} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:08:58.085] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5351, y=67, z=4571} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=east]
+[21Mar2025 15:08:58.931] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5248, y=73, z=4509} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:08:58.993] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5305, y=65, z=4509} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:08:59.009] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5189, y=91, z=4503} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:08:59.024] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5178, y=96, z=4496} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:09:07.179] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5170, y=100, z=4480} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:10:23.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 15:10:23.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 15:10:31.650] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5043, y=70, z=4472} Block{productivebees:stone_nest}[facing=up]
+[21Mar2025 15:10:31.738] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5169, y=99, z=4464} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:10:38.990] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (5284 | 38 | 4212).
+[21Mar2025 15:10:38.992] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[21Mar2025 15:10:38.994] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 3(0) Rooms
+[21Mar2025 15:10:38.994] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[21Mar2025 15:10:38.994] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 4(0) Rooms
+[21Mar2025 15:10:38.994] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[21Mar2025 15:10:38.994] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(0) Nodes and 4(0) Rooms
+[21Mar2025 15:10:38.994] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[21Mar2025 15:10:38.994] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(3) Nodes and 4(0) Rooms
+[21Mar2025 15:10:38.995] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[21Mar2025 15:10:38.995] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 6(0) Rooms
+[21Mar2025 15:10:39.524] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5133, y=95, z=4460} Block{productivebees:bumble_bee_nest}[facing=up]
+[21Mar2025 15:10:52.395] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5267, y=75, z=4434} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:10:52.481] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5105, y=92, z=4432} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:10:52.481] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5108, y=77, z=4442} Block{productivebees:stone_nest}[facing=south]
+[21Mar2025 15:11:03.883] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4935, y=78, z=4417} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:11:03.889] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4965, y=74, z=4420} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:11:12.565] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5108, y=88, z=4408} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:11:12.829] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5044, y=73, z=4404} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:11:12.931] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4952, y=70, z=4408} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:11:13.123] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4898, y=66, z=4405} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:11:13.248] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5265, y=79, z=4403} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:11:15.736] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5089, y=85, z=4384} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:11:19.073] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4996, y=66, z=4381} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:11:24.696] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5030, y=83, z=4358} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:11:24.702] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5020, y=83, z=4360} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:11:24.702] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5018, y=84, z=4365} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:11:25.077] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4931, y=74, z=4353} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:11:25.636] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5265, y=74, z=4355} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:11:26.785] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5174, y=72, z=4339} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:11:27.225] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5129, y=73, z=4350} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:11:27.234] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5091, y=71, z=4345} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:11:27.276] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4982, y=82, z=4339} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:11:27.623] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4953, y=83, z=4340} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:11:27.634] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4912, y=79, z=4342} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:11:27.888] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5249, y=70, z=4342} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:11:27.985] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5275, y=72, z=4343} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:11:28.190] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (5281 | 2 | 4353)
+[21Mar2025 15:11:28.214] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (5281 | 2 | 4353)
+[21Mar2025 15:11:31.668] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (5296 | 2 | 4358)
+[21Mar2025 15:11:31.668] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (5296 | 2 | 4358)
+[21Mar2025 15:11:31.669] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (5297 | 2 | 4357)
+[21Mar2025 15:11:31.669] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (5297 | 2 | 4357)
+[21Mar2025 15:11:31.669] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_180 at (5305 | 2 | 4362)
+[21Mar2025 15:11:31.669] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_180 at (5305 | 2 | 4362)
+[21Mar2025 15:11:31.669] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation NONE at (5305 | 2 | 4357)
+[21Mar2025 15:11:31.669] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation NONE at (5305 | 2 | 4357)
+[21Mar2025 15:11:31.670] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (5302 | 2 | 4357)
+[21Mar2025 15:11:31.671] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (5302 | 2 | 4357)
+[21Mar2025 15:11:31.671] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (5311 | 2 | 4356)
+[21Mar2025 15:11:31.671] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (5311 | 2 | 4356)
+[21Mar2025 15:11:31.681] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (5307 | 1 | 4334)
+[21Mar2025 15:11:31.682] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (5307 | 1 | 4334)
+[21Mar2025 15:11:33.973] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (5312 | 2 | 4351)
+[21Mar2025 15:11:33.974] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (5312 | 2 | 4351)
+[21Mar2025 15:11:33.974] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (5311 | 2 | 4356)
+[21Mar2025 15:11:33.974] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (5311 | 2 | 4356)
+[21Mar2025 15:11:33.981] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (5324 | 2 | 4339)
+[21Mar2025 15:11:33.982] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (5324 | 2 | 4339)
+[21Mar2025 15:11:33.982] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (5312 | 2 | 4351)
+[21Mar2025 15:11:33.982] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (5312 | 2 | 4351)
+[21Mar2025 15:11:33.982] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (5307 | 1 | 4334)
+[21Mar2025 15:11:33.986] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (5307 | 1 | 4334)
+[21Mar2025 15:11:38.470] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Nick'/20462, l='ServerLevel[world]', x=5113.30, y=116.94, z=4567.35] died: Nick was slain by ItsReaper_13
+[21Mar2025 15:11:38.471] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Mar2025 15:11:38.472] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Mar2025 15:12:28.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Easter Egg Searcher]
+[21Mar2025 15:12:41.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[21Mar2025 15:12:41.295] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[21Mar2025 15:12:41.299] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[21Mar2025 15:12:41.302] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[21Mar2025 15:12:41.325] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[21Mar2025 15:12:41.345] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[21Mar2025 15:12:41.502] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[21Mar2025 15:12:41.510] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_1
+[21Mar2025 15:12:41.511] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0
+[21Mar2025 15:12:41.511] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0
+[21Mar2025 15:12:41.512] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_0
+[21Mar2025 15:12:41.556] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[21Mar2025 15:12:41.590] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[21Mar2025 15:12:41.625] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[21Mar2025 15:12:41.637] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_2
+[21Mar2025 15:12:41.641] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[21Mar2025 15:12:42.413] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[21Mar2025 15:12:42.593] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[21Mar2025 15:12:42.609] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[21Mar2025 15:12:42.625] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_0
+[21Mar2025 15:12:42.630] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[21Mar2025 15:12:42.656] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[21Mar2025 15:12:42.668] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_2
+[21Mar2025 15:12:42.673] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_5
+[21Mar2025 15:12:42.677] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_8
+[21Mar2025 15:12:42.679] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_6
+[21Mar2025 15:12:42.680] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_17
+[21Mar2025 15:12:42.681] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_4
+[21Mar2025 15:12:42.682] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_13
+[21Mar2025 15:12:42.683] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_1
+[21Mar2025 15:12:42.684] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_7
+[21Mar2025 15:12:42.684] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_8
+[21Mar2025 15:12:42.685] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_3
+[21Mar2025 15:12:42.685] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_8
+[21Mar2025 15:12:42.686] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_5
+[21Mar2025 15:12:42.687] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_2
+[21Mar2025 15:12:42.687] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_4
+[21Mar2025 15:12:42.687] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_16
+[21Mar2025 15:12:42.688] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_0
+[21Mar2025 15:12:42.688] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_18
+[21Mar2025 15:12:42.689] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_10
+[21Mar2025 15:12:42.689] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_15
+[21Mar2025 15:12:42.689] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_15
+[21Mar2025 15:12:42.690] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_11
+[21Mar2025 15:12:42.690] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_8
+[21Mar2025 15:12:42.691] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_13
+[21Mar2025 15:12:42.691] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_20
+[21Mar2025 15:12:42.691] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_6
+[21Mar2025 15:12:42.692] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_10
+[21Mar2025 15:12:42.692] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_17
+[21Mar2025 15:12:42.692] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_9
+[21Mar2025 15:12:42.693] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_12
+[21Mar2025 15:12:42.693] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_5
+[21Mar2025 15:12:42.693] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_14
+[21Mar2025 15:12:42.694] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_5
+[21Mar2025 15:12:42.694] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_0
+[21Mar2025 15:12:42.694] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_16
+[21Mar2025 15:12:42.695] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_20
+[21Mar2025 15:12:42.695] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_1
+[21Mar2025 15:12:42.696] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_7
+[21Mar2025 15:12:42.696] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_11
+[21Mar2025 15:12:42.697] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_4
+[21Mar2025 15:12:42.697] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_19
+[21Mar2025 15:12:42.697] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_10
+[21Mar2025 15:12:42.698] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_16
+[21Mar2025 15:12:42.698] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_19
+[21Mar2025 15:12:42.699] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_8
+[21Mar2025 15:12:42.699] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_9
+[21Mar2025 15:12:42.699] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_9
+[21Mar2025 15:12:42.700] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_14
+[21Mar2025 15:12:42.700] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_1
+[21Mar2025 15:12:42.701] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_1
+[21Mar2025 15:12:42.701] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_13
+[21Mar2025 15:12:42.701] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_0
+[21Mar2025 15:12:42.702] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_17
+[21Mar2025 15:12:42.702] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_16
+[21Mar2025 15:12:42.702] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_15
+[21Mar2025 15:12:42.703] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_20
+[21Mar2025 15:12:42.703] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_5
+[21Mar2025 15:12:42.703] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_3
+[21Mar2025 15:12:42.704] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_11
+[21Mar2025 15:12:42.704] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_7
+[21Mar2025 15:12:42.704] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_18
+[21Mar2025 15:12:42.705] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_7
+[21Mar2025 15:12:42.705] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_6
+[21Mar2025 15:12:42.705] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_3
+[21Mar2025 15:12:42.706] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_13
+[21Mar2025 15:12:42.707] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_0
+[21Mar2025 15:12:42.707] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_12
+[21Mar2025 15:12:42.707] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_21
+[21Mar2025 15:12:42.708] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_4
+[21Mar2025 15:12:42.708] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_15
+[21Mar2025 15:12:42.709] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_19
+[21Mar2025 15:12:42.709] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_12
+[21Mar2025 15:12:42.710] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_14
+[21Mar2025 15:12:42.711] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_2
+[21Mar2025 15:12:42.711] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_2
+[21Mar2025 15:12:42.712] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_10
+[21Mar2025 15:12:42.712] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_21
+[21Mar2025 15:12:42.713] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_12
+[21Mar2025 15:12:42.714] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_9
+[21Mar2025 15:12:42.714] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_22
+[21Mar2025 15:12:42.715] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_18
+[21Mar2025 15:12:42.715] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_17
+[21Mar2025 15:12:42.716] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_3
+[21Mar2025 15:12:42.716] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_23
+[21Mar2025 15:12:42.717] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_6
+[21Mar2025 15:12:42.717] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_14
+[21Mar2025 15:12:42.718] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_20
+[21Mar2025 15:12:42.719] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_19
+[21Mar2025 15:12:42.719] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_2
+[21Mar2025 15:12:42.719] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_18
+[21Mar2025 15:12:42.720] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_11
+[21Mar2025 15:12:42.722] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_2
+[21Mar2025 15:12:42.734] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_1
+[21Mar2025 15:12:42.747] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_0
+[21Mar2025 15:12:42.752] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_0
+[21Mar2025 15:12:42.755] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_3
+[21Mar2025 15:12:42.758] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_1
+[21Mar2025 15:12:42.764] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_11_special
+[21Mar2025 15:12:42.766] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_1
+[21Mar2025 15:12:42.768] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_4
+[21Mar2025 15:12:42.771] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_6
+[21Mar2025 15:12:42.772] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_0
+[21Mar2025 15:12:42.774] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_6
+[21Mar2025 15:12:42.778] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_7
+[21Mar2025 15:12:42.781] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_9
+[21Mar2025 15:12:42.783] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_10
+[21Mar2025 15:12:42.784] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bottom_0_terminator
+[21Mar2025 15:12:42.795] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_roof_0
+[21Mar2025 15:12:42.808] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_roof_2
+[21Mar2025 15:12:42.822] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_roof_1
+[21Mar2025 15:12:42.825] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_3
+[21Mar2025 15:12:42.826] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_5
+[21Mar2025 15:12:42.829] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_roof_0_terminator
+[21Mar2025 15:12:42.832] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bottom_0
+[21Mar2025 15:12:42.834] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_4
+[21Mar2025 15:12:42.836] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bottom_1
+[21Mar2025 15:12:42.848] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_5
+[21Mar2025 15:12:42.862] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_0
+[21Mar2025 15:12:42.870] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_1
+[21Mar2025 15:12:42.882] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_5
+[21Mar2025 15:12:42.891] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_5
+[21Mar2025 15:12:42.908] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_1
+[21Mar2025 15:12:42.921] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_4
+[21Mar2025 15:12:42.928] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_2
+[21Mar2025 15:12:42.941] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_3
+[21Mar2025 15:12:42.969] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_8_special
+[21Mar2025 15:12:42.999] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_7_special
+[21Mar2025 15:12:43.014] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_2
+[21Mar2025 15:12:43.027] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_6_special
+[21Mar2025 15:12:43.030] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_3
+[21Mar2025 15:12:43.031] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_2
+[21Mar2025 15:12:43.048] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_4
+[21Mar2025 15:12:43.068] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_8
+[21Mar2025 15:12:43.072] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_0
+[21Mar2025 15:12:43.077] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_0
+[21Mar2025 15:12:43.090] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_3
+[21Mar2025 15:12:43.093] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_5
+[21Mar2025 15:12:43.120] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_10
+[21Mar2025 15:12:43.140] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_7
+[21Mar2025 15:12:43.153] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_2
+[21Mar2025 15:12:43.172] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_9
+[21Mar2025 15:12:43.192] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_6
+[21Mar2025 15:12:43.195] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[21Mar2025 15:12:43.200] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_4
+[21Mar2025 15:12:43.209] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_4
+[21Mar2025 15:12:43.216] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_1
+[21Mar2025 15:12:43.228] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_6
+[21Mar2025 15:12:43.241] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_9
+[21Mar2025 15:12:43.247] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_4
+[21Mar2025 15:12:43.248] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_0
+[21Mar2025 15:12:43.255] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_3
+[21Mar2025 15:12:43.257] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_5
+[21Mar2025 15:12:43.268] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_8
+[21Mar2025 15:12:43.274] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[21Mar2025 15:12:43.277] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[21Mar2025 15:12:43.292] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[21Mar2025 15:12:43.297] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[21Mar2025 15:12:43.313] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_1
+[21Mar2025 15:12:43.315] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_3
+[21Mar2025 15:12:43.315] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_2
+[21Mar2025 15:12:43.319] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_8
+[21Mar2025 15:12:43.320] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_7
+[21Mar2025 15:12:43.321] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_6
+[21Mar2025 15:12:43.420] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[21Mar2025 15:12:43.433] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_7
+[21Mar2025 15:12:43.458] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_1
+[21Mar2025 15:12:43.467] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_1
+[21Mar2025 15:12:43.471] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_zombie_armored_0 is being run through DFU (hash 32f893293d78dce1cfecdba96de1eae147ac768abd03e5bf576eb713714011f2), this will cause launch time delays
+[21Mar2025 15:12:43.823] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_skeleton_ranged_0 is being run through DFU (hash 4ca373a4e9dcf3dc7fa79b707b45035f42293ac8c2cb7b17dae98a8a807dc262), this will cause launch time delays
+[21Mar2025 15:12:43.841] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_zombie_armored_1 is being run through DFU (hash f202523e30759d1064e4ab162d096bd7835e2e9aa4462a9bd88a57347dc46803), this will cause launch time delays
+[21Mar2025 15:12:43.867] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[21Mar2025 15:12:43.880] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_2
+[21Mar2025 15:12:43.889] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_0
+[21Mar2025 15:12:43.894] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_4 is being run through DFU (hash 4e3d43f4265ada6b7d04c8e0e4d600518a9022f0976b906999ef71b82ac454e9), this will cause launch time delays
+[21Mar2025 15:12:43.949] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_5 is being run through DFU (hash b332640dea1132e9352eea28e19f909df46c3eb44d75ad4bda45be7a97896f08), this will cause launch time delays
+[21Mar2025 15:12:44.012] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_6 is being run through DFU (hash e64d34656107447cbcdbfd29cc666c2218b3fe430c6cfcd2aa791cb61e3c42d7), this will cause launch time delays
+[21Mar2025 15:12:44.025] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_7 is being run through DFU (hash ef12328f6ceb0d5c1f6c9e3a1c80eef1b4f3a271709a8489ab973d7c4931af5c), this will cause launch time delays
+[21Mar2025 15:12:44.066] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_bridge_1_broken is being run through DFU (hash 45541e09b3e555457704d88eed1c069c12ad7cb8201f04e9eaa89a0ecd931d6e), this will cause launch time delays
+[21Mar2025 15:12:44.101] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_part_2_tower is being run through DFU (hash c3030a4d3e6cba3a1131585a6597e2c33da2dcd0aea48e45f390812ab2382267), this will cause launch time delays
+[21Mar2025 15:12:44.116] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_part_1_support is being run through DFU (hash 4f7f810cf939a890bb4b32e34167f81ea04a577dcff291f172cf62917655d9ca), this will cause launch time delays
+[21Mar2025 15:12:44.154] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_roof_0 is being run through DFU (hash b1453eefe9fe5d2fcb8cb824eb32fadd5135c7912a75e73bcf7fd3c9058cd538), this will cause launch time delays
+[21Mar2025 15:12:44.182] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_2 is being run through DFU (hash ff9b3355f235952236a63127ffb6c51054ad072ec299d432390cd262d2cfac40), this will cause launch time delays
+[21Mar2025 15:12:44.204] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_2 is being run through DFU (hash 177d1d6f80e09c2e860eeec7a45a480ace442e555b7819a982771037cc8d6d4c), this will cause launch time delays
+[21Mar2025 15:12:44.238] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_0_small is being run through DFU (hash 463216b9566337e5b052dcb5b4f32427b54e3ea9fe0d0e09ea94b95788bb2621), this will cause launch time delays
+[21Mar2025 15:12:44.242] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_1 is being run through DFU (hash b8f28ad9e1cfd236ae193a019f8865360be850d000af02970faa6a2b2a9edc33), this will cause launch time delays
+[21Mar2025 15:12:44.254] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_1_small_terminator is being run through DFU (hash 11c0e78c12fd58e12e33bec70ef8dd82e72a0bced08c6b33bff1247255a1b70f), this will cause launch time delays
+[21Mar2025 15:12:44.257] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_main is being run through DFU (hash e6624f80f72fa3676beb8d0be9eea6e31f0e2b61268eca22949954e725b1a9e5), this will cause launch time delays
+[21Mar2025 15:12:44.279] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_bridge_0 is being run through DFU (hash 2b547d239388e0eb8fd8040780a38a0a3da7c931a373b80cca729cef06dd6d9e), this will cause launch time delays
+[21Mar2025 15:12:44.298] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_roof_1 is being run through DFU (hash 94b6c76aff3d00ebc7166d94420a4be61f22e3785876404546dbe88d8758205d), this will cause launch time delays
+[21Mar2025 15:12:44.317] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_bridge_2_terminator is being run through DFU (hash 4c0385480aa572ddeb8ce09046d5498323b15bfdcd374b9c210e6f8436c5cc79), this will cause launch time delays
+[21Mar2025 15:12:44.321] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_top is being run through DFU (hash 6da0377dd10d6289c253445eddc2769f618447f9d04f280fda441830f42ebcd8), this will cause launch time delays
+[21Mar2025 15:12:44.341] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_bottom is being run through DFU (hash 9170499fda863c43f8a6e86acf965a7f243abb8ff34c1e857053ee7c934a0008), this will cause launch time delays
+[21Mar2025 15:12:44.351] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_0 is being run through DFU (hash a7af0175c7cd1930eb98bafb2ec195a9e02e67887feb5a18a4e4b47538c8caff), this will cause launch time delays
+[21Mar2025 15:12:44.400] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_0 is being run through DFU (hash 4a785ac9b5fa70e5c5234147ac8a926a554fb1fbf975b36af07a3fa647ed8098), this will cause launch time delays
+[21Mar2025 15:12:44.421] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_tower is being run through DFU (hash 1e955fc596f3b485b90ff0140594d0752667721a8e2bd3bf9062b88e59bfd233), this will cause launch time delays
+[21Mar2025 15:12:44.433] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_1 is being run through DFU (hash 468fbcac7fa194bb12b8fabeb5ebda2d31426066f5f23c2ed70564b9cbbbf70f), this will cause launch time delays
+[21Mar2025 15:12:44.455] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_1 is being run through DFU (hash 0ceea9e380ec4d5694214df5430b48cd4ffcecd41717f34ebc5365268ca002d1), this will cause launch time delays
+[21Mar2025 15:12:44.520] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_skeleton_ranged_0 is being run through DFU (hash cd6068f01900209645d6014ce3ae526efc80e57902085f2df7593e67abfc43e2), this will cause launch time delays
+[21Mar2025 15:12:44.538] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_top_phantom_0 is being run through DFU (hash fce82562a7d01bf6066ef0f9f0e1fa925e0ff8f734bae5e85273d018e36d09c8), this will cause launch time delays
+[21Mar2025 15:12:44.567] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_ranged_0 is being run through DFU (hash a27ba48cef2f61f0ea23b997bbef6bc37b438f77d82daba1234dfa8efebc5a14), this will cause launch time delays
+[21Mar2025 15:12:44.588] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_5 is being run through DFU (hash 5fbcb18a3532751d49fbe33451677e198ce28a5d5e0240c50fdb41c712a9c9ae), this will cause launch time delays
+[21Mar2025 15:12:44.662] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_juggernaut_0 is being run through DFU (hash 847273b60978f5ce5b6994818888dbe2dad4ad5e663777c73e0cc957410ebce1), this will cause launch time delays
+[21Mar2025 15:12:44.681] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_witch_0 is being run through DFU (hash 16c54db650aada13f4bd51639ed76af958381de145d0a99d928825ce5cd9ef79), this will cause launch time delays
+[21Mar2025 15:12:44.693] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_0 is being run through DFU (hash 2934969fc51ffa8d6e35d4ef46383ba4af678237ab0965e859947ba418839cea), this will cause launch time delays
+[21Mar2025 15:12:44.706] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_0 is being run through DFU (hash 8d46d982fdb95c3bb9f24627c6ddd89345c1a344ba0c9e9d26aa85eb6af9111d), this will cause launch time delays
+[21Mar2025 15:12:44.725] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_2 is being run through DFU (hash 64e73649b5c4c2ceec30791970ee5841dcb99c8cf97cc51a5d0a3665a48e98ba), this will cause launch time delays
+[21Mar2025 15:12:44.746] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_3 is being run through DFU (hash cdd42b7ad3a91a84b244dd890a53eac3368c7fbee27c45ac18fced742117f86a), this will cause launch time delays
+[21Mar2025 15:12:44.766] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_1 is being run through DFU (hash 53bf0dd65c9acac44c1d91ea6ada46a9ce25659447de6c90588a2b86915cc19f), this will cause launch time delays
+[21Mar2025 15:12:44.783] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_4 is being run through DFU (hash 733765f3fe42d05854d16482362b4ba3f798419df69e56e282336d01e6775dd4), this will cause launch time delays
+[21Mar2025 15:12:45.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4087ms or 81 ticks behind
+[21Mar2025 15:12:45.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teopiter moved too quickly! -3.616656744595275,3.0,-8.834013004354347
+[21Mar2025 15:12:52.562] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[21Mar2025 15:14:46.153] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5289, y=66, z=4324} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:14:46.822] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5107, y=73, z=4335} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:14:46.890] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5008, y=80, z=4330} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:14:46.897] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=4992, y=84, z=4334} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:14:54.439] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5122, y=65, z=4315} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:14:54.439] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5125, y=66, z=4314} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 15:14:54.462] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5080, y=73, z=4304} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[21Mar2025 15:14:55.074] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5208, y=71, z=4316} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
