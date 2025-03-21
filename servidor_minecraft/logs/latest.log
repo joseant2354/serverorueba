@@ -2166,3 +2166,33 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [21Mar2025 14:37:42.092] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3752, y=-11, z=5599}
 [21Mar2025 14:37:42.093] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3753, y=-11, z=5599}
 [21Mar2025 14:38:32.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teopiter> [x:3688, y:69, z:4651, dim:minecraft:overworld]
+[21Mar2025 14:46:59.457] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ba4abb[id=<null>,name=ItsReaper_13,properties={},legacy=false] (/127.100.143.205:53975) lost connection: Disconnected
+[21Mar2025 14:47:06.689] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsReaper_13[/127.100.143.205:47053] logged in with entity id 4761 at (3710.8653643812017, 90.0, 4549.990600608704)
+[21Mar2025 14:47:06.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 joined the game
+[21Mar2025 14:47:06.724] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to ItsReaper_13
+[21Mar2025 14:47:06.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has reached the goal [Easter]
+[21Mar2025 14:47:06.727] [Server thread/INFO] [Jade/]: Syncing config to ItsReaper_13 (06ff6de7-f288-359f-848a-e6b66b4db818)
+[21Mar2025 14:47:13.340] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from ItsReaper_13
+[21Mar2025 14:47:22.522] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsReaper_13 accepted server config.
+[21Mar2025 14:51:36.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:51:36.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:51:36.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:51:36.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:51:36.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:51:36.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:51:36.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:51:36.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:51:36.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:51:36.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:51:36.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:51:37.019] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:51:37.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:51:37.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:51:37.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:51:37.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:51:37.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:51:37.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:51:37.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:51:37.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4082, y=65, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:51:37.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4088, y=64, z=5110} BlockPos{x=4085, y=65, z=5110}
+[21Mar2025 14:53:37.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Pic-A-Nic Basket?]
