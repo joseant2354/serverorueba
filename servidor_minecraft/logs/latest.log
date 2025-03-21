@@ -2183,3 +2183,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [21Mar2025 17:25:01.740] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 3975, 99, 5027 in dimension 'minecraft:overworld'
 [21Mar2025 17:25:02.540] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 3976, 99, 5027 in dimension 'minecraft:overworld'
 [21Mar2025 17:25:14.198] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 3971, 101, 5023 in dimension 'minecraft:overworld'
+[21Mar2025 17:27:40.840] [Server thread/WARN] [me.pandamods.fallingtrees.api.TreeHandler/]: Tree is too big to be processed at position 3983, 86, 5018 in dimension 'minecraft:overworld'
+[21Mar2025 17:46:58.891] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Teopiter[/127.49.188.182:54091] logged in with entity id 26257 at (5170.951616221688, 106.0, 2303.073859757967)
+[21Mar2025 17:46:58.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter joined the game
+[21Mar2025 17:46:58.919] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Teopiter
+[21Mar2025 17:46:58.921] [Server thread/INFO] [Jade/]: Syncing config to Teopiter (ed29a93d-9849-3f13-9ddb-e0e5a8376ec0)
+[21Mar2025 17:47:00.238] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Teopiter

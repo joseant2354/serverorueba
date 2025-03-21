@@ -4442,6 +4442,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-03-21 17:46:48 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-21 17:18:33 +0000"
@@ -4451,6 +4457,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-21 17:21:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
+    "criteria": {
+      "has_barrel": "2025-03-21 17:30:07 +0000"
     },
     "done": true
   },
@@ -4469,6 +4481,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-21 17:21:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/magenta_postbox": {
+    "criteria": {
+      "has_barrel": "2025-03-21 17:30:07 +0000"
     },
     "done": true
   },
@@ -4508,6 +4526,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-03-21 17:30:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tiled_glass_pane_from_glass_panes_colorless_stonecutting": {
     "criteria": {
       "has_glass_panes_colorless": "2025-03-21 17:21:16 +0000"
@@ -4520,6 +4544,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/orange_postbox": {
+    "criteria": {
+      "has_barrel": "2025-03-21 17:30:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-21 17:18:33 +0000"
@@ -4529,6 +4559,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-21 17:21:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_postbox": {
+    "criteria": {
+      "has_barrel": "2025-03-21 17:30:07 +0000"
     },
     "done": true
   },
@@ -4580,6 +4616,18 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2025-03-21 17:30:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/gray_postbox": {
+    "criteria": {
+      "has_barrel": "2025-03-21 17:30:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-03-21 17:20:38 +0000"
@@ -4610,6 +4658,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/cyan_postbox": {
+    "criteria": {
+      "has_barrel": "2025-03-21 17:30:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_postbox": {
+    "criteria": {
+      "has_barrel": "2025-03-21 17:30:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/vertical_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
     "criteria": {
       "has_glass_panes_colorless": "2025-03-21 17:21:16 +0000"
@@ -4622,9 +4682,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/lime_postbox": {
+    "criteria": {
+      "has_barrel": "2025-03-21 17:30:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-03-21 17:11:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-03-21 17:30:07 +0000"
     },
     "done": true
   },
@@ -4718,6 +4790,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
+    "criteria": {
+      "has_barrel": "2025-03-21 17:30:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-21 17:20:38 +0000"
@@ -4727,6 +4805,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-21 17:21:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_postbox": {
+    "criteria": {
+      "has_barrel": "2025-03-21 17:30:07 +0000"
     },
     "done": true
   },
@@ -4742,9 +4826,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-03-21 17:24:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-21 17:18:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-03-21 17:30:07 +0000"
     },
     "done": true
   },
@@ -4814,9 +4910,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/pink_postbox": {
+    "criteria": {
+      "has_barrel": "2025-03-21 17:30:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_postbox": {
+    "criteria": {
+      "has_barrel": "2025-03-21 17:30:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-21 17:18:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_postbox": {
+    "criteria": {
+      "has_barrel": "2025-03-21 17:30:07 +0000"
     },
     "done": true
   },
@@ -4826,9 +4940,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-03-21 17:30:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-03-21 17:20:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_postbox": {
+    "criteria": {
+      "has_barrel": "2025-03-21 17:30:07 +0000"
     },
     "done": true
   },
