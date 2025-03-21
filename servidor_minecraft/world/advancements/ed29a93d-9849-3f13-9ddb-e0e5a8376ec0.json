@@ -3770,6 +3770,96 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-21 13:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-21 13:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-21 13:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-21 13:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-21 13:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-21 13:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-21 13:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-21 13:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-21 13:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-21 13:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-21 13:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-21 13:32:14 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-03-21 13:29:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 13:22:42 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-03-21 13:30:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2025-03-21 13:10:24 +0000"
@@ -3788,9 +3878,51 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-03-21 13:30:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-03-21 13:21:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 13:25:29 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-03-21 13:30:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-21 13:27:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-03-21 13:29:03 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-03-21 13:30:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-21 13:27:10 +0000"
     },
     "done": true
   },

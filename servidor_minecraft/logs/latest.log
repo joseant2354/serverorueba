@@ -2188,3 +2188,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [21Mar2025 13:25:29.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has reached the goal [Bone Crusher]
 [21Mar2025 13:26:28.497] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [21Mar2025 13:26:28.498] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[21Mar2025 13:31:50.335] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=4033, y=74, z=4935}
+[21Mar2025 13:33:27.078] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=4210, y=66, z=4933} as the loot table 'kaisyn:village/village_birch_forest_house' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
