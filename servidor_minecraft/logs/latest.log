@@ -2237,3 +2237,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [21Mar2025 18:13:57.852] [Server thread/INFO] [do_a_barrel_roll/]: Client of 4lv4r0_ accepted server config.
 [21Mar2025 18:17:34.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsReaper_13> wa
 [21Mar2025 18:24:26.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Take Aim]
+[21Mar2025 18:30:16.061] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[21Mar2025 18:30:30.374] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[21Mar2025 18:30:30.375] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[21Mar2025 18:30:41.798] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Senpai Rhonda the Light'/49144, l='ServerLevel[world]', x=5571.34, y=88.40, z=1166.31] died: Senpai Rhonda the Light was slain by ItsReaper_13
+[21Mar2025 18:31:16.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [A Seedy Place]
+[21Mar2025 18:33:00.837] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/48807, l='ServerLevel[world]', x=5677.30, y=72.58, z=1133.30] died: Undead Knight was slain by ItsReaper_13
+[21Mar2025 18:34:26.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Guns and Roses]
+[21Mar2025 18:34:48.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Guns and Roses]
+[21Mar2025 18:35:04.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [Guns and Roses]
