@@ -14133,3 +14133,71 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [21Mar2025 18:57:09.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Mar2025 18:58:36.635] [Server thread/WARN] [tombstone/]: The death event of the player Teopiter was canceled by another mod
 [21Mar2025 18:58:36.654] [Server thread/INFO] [tombstone/]: The player Teopiter has successfully been saved
+[21Mar2025 19:00:44.507] [Server thread/WARN] [tombstone/]: The death event of the player Teopiter was canceled by another mod
+[21Mar2025 19:00:44.509] [Server thread/INFO] [tombstone/]: The player Teopiter has successfully been saved
+[21Mar2025 19:02:09.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 19:02:09.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 19:04:38.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has completed the challenge [Village Defender]
+[21Mar2025 19:07:09.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 19:07:09.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 19:09:14.966] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Shane the AC Rizzlord'/57048, l='ServerLevel[world]', x=5749.07, y=109.00, z=1145.26] died: Shane the AC Rizzlord was slain by Teopiter
+[21Mar2025 19:09:14.966] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Mar2025 19:09:14.967] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Mar2025 19:09:14.967] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Mar2025 19:09:16.931] [Server thread/WARN] [tombstone/]: The death event of the player Teopiter was canceled by another mod
+[21Mar2025 19:09:16.939] [Server thread/INFO] [tombstone/]: The player Teopiter has successfully been saved
+[21Mar2025 19:10:16.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has reached the goal [Strong or Careful]
+[21Mar2025 19:10:16.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[21Mar2025 19:10:16.941] [Server thread/DEBUG] [tombstone/]: A new grave of the player Teopiter was created at position [x:5753, y:109, z:1139, dim:minecraft:overworld]
+[21Mar2025 19:10:18.991] [Server thread/INFO] [do_a_barrel_roll/]: Client of Teopiter accepted server config.
+[21Mar2025 19:10:31.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has reached the goal [Here They Come]
+[21Mar2025 19:11:59.399] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (6148 | 44 | 1556).
+[21Mar2025 19:11:59.400] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[21Mar2025 19:11:59.400] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 4(0) Rooms
+[21Mar2025 19:11:59.400] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[21Mar2025 19:11:59.400] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 4(0) Rooms
+[21Mar2025 19:11:59.400] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[21Mar2025 19:11:59.400] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 8(0) Nodes and 6(0) Rooms
+[21Mar2025 19:11:59.400] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[21Mar2025 19:11:59.400] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(0) Nodes and 6(0) Rooms
+[21Mar2025 19:11:59.400] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[21Mar2025 19:11:59.401] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 5(0) Rooms
+[21Mar2025 19:12:09.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 19:12:09.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 19:14:21.212] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_3
+[21Mar2025 19:14:21.230] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/straight_04 is being run through DFU (hash c2d529e75ad2f90eedff2b10c299dc4cc63eda687e1084fdc613667818fe6e85), this will cause launch time delays
+[21Mar2025 19:14:21.269] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/corner_02 is being run through DFU (hash ef664417695a1413b83d7dd70860a8a5b37d8e58323ffb019970b82d7a73c40d), this will cause launch time delays
+[21Mar2025 19:14:21.298] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/meadow_lamp_1 is being run through DFU (hash 1a0a5c426ea6c68a8f4e2bea163ed043cbfe42919595d580869239956ab68cd5), this will cause launch time delays
+[21Mar2025 19:14:21.346] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/corner_01 is being run through DFU (hash 4f99a4b839578294b64fd7791670f31c0afe07d3b7f40c02d6cf8e2543b376e7), this will cause launch time delays
+[21Mar2025 19:14:21.360] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/straight_05 is being run through DFU (hash f878107bf3169beb9e90d60be78a4ddccf29d638814d91447c116f2bdbed42f4), this will cause launch time delays
+[21Mar2025 19:14:21.364] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/straight_02 is being run through DFU (hash f724c0de3f3419b3089baf01d03d2a814351c856ce6f035e9e96a8a9fa754e58), this will cause launch time delays
+[21Mar2025 19:14:21.390] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/animals/dog is being run through DFU (hash 4e02f490d931401642cd408b674d838c9b20734398f0bed34295e12a45228257), this will cause launch time delays
+[21Mar2025 19:14:21.592] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/straight_01 is being run through DFU (hash 774fc89129753fb4f879f865f1793ce41a70862356c6e348702f5242090117a6), this will cause launch time delays
+[21Mar2025 19:14:21.629] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/crossroad_03 is being run through DFU (hash c83116bac206cbff88e2ba1f7a4289437229958881791e394316bd1e33ebdd90), this will cause launch time delays
+[21Mar2025 19:14:21.671] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/crossroad_01 is being run through DFU (hash b48e43c77d15c7fbd4710dcf446361eb01eac2258ebb39c45fff2c383339ef65), this will cause launch time delays
+[21Mar2025 19:14:21.680] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/corner_03 is being run through DFU (hash 5d08a0753073511c44c14467f6c6d3d900982996f896a7b902c26c140cc25a97), this will cause launch time delays
+[21Mar2025 19:14:21.682] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/straight_03 is being run through DFU (hash 3bf6b495a8019f5fde60514ba0d26092048b46681477f9a2be73b91875932b85), this will cause launch time delays
+[21Mar2025 19:14:21.688] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/crossroad_02 is being run through DFU (hash 670f7691bcd4643f4e3efff743201d542af6d1d2c84264a3986072b350bef54e), this will cause launch time delays
+[21Mar2025 19:14:21.691] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/crossroad_04 is being run through DFU (hash a6ac8b2dc7d64e88aaa9d05a70efa8eea16b91d2dd85d2a4417b9927adba0322), this will cause launch time delays
+[21Mar2025 19:14:21.702] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/terminators/terminator_03 is being run through DFU (hash b898566687c34b3bbaa85e8d235e2ca6231800fc7daae19da8da23441a981d58), this will cause launch time delays
+[21Mar2025 19:14:21.703] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/terminators/terminator_02 is being run through DFU (hash f6509eebb5d98742d3112534fd1664950c550abf3e6647068d3363a350e8a78e), this will cause launch time delays
+[21Mar2025 19:14:21.703] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/terminators/terminator_01 is being run through DFU (hash 5f05abb3ffeb8fa771f1c3333b35ec656ab457500df280f63e9f4f3a81b7b9c7), this will cause launch time delays
+[21Mar2025 19:14:21.899] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[21Mar2025 19:14:40.183] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=6055, y=73, z=1691} Block{productivebees:coarse_dirt_nest}[facing=up]
+[21Mar2025 19:14:40.204] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=6033, y=84, z=1686} Block{productivebees:coarse_dirt_nest}[facing=south]
+[21Mar2025 19:14:42.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4lv4r0_ lost connection: Disconnected
+[21Mar2025 19:14:42.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ left the game
+[21Mar2025 19:15:02.862] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5954, y=103, z=1754} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 19:15:07.199] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=5997, y=87, z=1775} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[21Mar2025 19:17:09.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 19:17:09.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 19:22:09.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 19:22:09.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 19:23:24.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsReaper_13 lost connection: Disconnected
+[21Mar2025 19:23:24.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 left the game
+[21Mar2025 19:27:09.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 19:27:09.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 19:32:09.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 19:32:09.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 19:37:09.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 19:37:09.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

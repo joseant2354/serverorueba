@@ -2249,3 +2249,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [21Mar2025 18:39:34.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsReaper_13 moved wrongly!
 [21Mar2025 18:58:36.635] [Server thread/WARN] [tombstone/]: The death event of the player Teopiter was canceled by another mod
 [21Mar2025 18:58:36.654] [Server thread/INFO] [tombstone/]: The player Teopiter has successfully been saved
+[21Mar2025 19:00:44.507] [Server thread/WARN] [tombstone/]: The death event of the player Teopiter was canceled by another mod
+[21Mar2025 19:00:44.509] [Server thread/INFO] [tombstone/]: The player Teopiter has successfully been saved
+[21Mar2025 19:04:38.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has completed the challenge [Village Defender]
+[21Mar2025 19:09:14.966] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Shane the AC Rizzlord'/57048, l='ServerLevel[world]', x=5749.07, y=109.00, z=1145.26] died: Shane the AC Rizzlord was slain by Teopiter
+[21Mar2025 19:09:16.931] [Server thread/WARN] [tombstone/]: The death event of the player Teopiter was canceled by another mod
+[21Mar2025 19:09:16.939] [Server thread/INFO] [tombstone/]: The player Teopiter has successfully been saved
+[21Mar2025 19:10:16.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has reached the goal [Strong or Careful]
+[21Mar2025 19:10:16.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[21Mar2025 19:10:18.991] [Server thread/INFO] [do_a_barrel_roll/]: Client of Teopiter accepted server config.
+[21Mar2025 19:10:31.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has reached the goal [Here They Come]
+[21Mar2025 19:14:21.899] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[21Mar2025 19:14:42.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4lv4r0_ lost connection: Disconnected
+[21Mar2025 19:14:42.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ left the game
+[21Mar2025 19:23:24.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsReaper_13 lost connection: Disconnected
+[21Mar2025 19:23:24.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 left the game
