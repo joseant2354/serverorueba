@@ -2197,3 +2197,42 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [21Mar2025 17:48:49.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4lv4r0_ moved too quickly! 8.111725753805331,-1.7934677773235705,-15.680053033311196
 [21Mar2025 17:48:49.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2858ms or 57 ticks behind
 [21Mar2025 17:49:21.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4lv4r0_ moved too quickly! 5.40734482080461,7.780097515669411,-15.87824760209196
+[21Mar2025 18:00:40.072] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[21Mar2025 18:00:40.073] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[21Mar2025 18:00:40.074] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_helmet/apotheosis:mythic/ABILITY/0.3!
+[21Mar2025 18:00:55.208] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teopiter lost connection: Disconnected
+[21Mar2025 18:00:55.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter left the game
+[21Mar2025 18:00:59.559] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Teopiter[/127.49.188.182:42289] logged in with entity id 37383 at (5430.712523890479, 63.0, 1584.73716806029)
+[21Mar2025 18:00:59.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter joined the game
+[21Mar2025 18:00:59.647] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Teopiter
+[21Mar2025 18:00:59.648] [Server thread/INFO] [Jade/]: Syncing config to Teopiter (ed29a93d-9849-3f13-9ddb-e0e5a8376ec0)
+[21Mar2025 18:00:59.985] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Teopiter
+[21Mar2025 18:01:02.543] [Server thread/INFO] [do_a_barrel_roll/]: Client of Teopiter accepted server config.
+[21Mar2025 18:01:55.837] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/35829, l='ServerLevel[world]', x=5579.01, y=116.41, z=1521.92] died: Undead Knight suffocated in a wall
+[21Mar2025 18:08:23.963] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/38768, l='ServerLevel[world]', x=5551.85, y=116.00, z=1478.34] died: Honeyed Archer was slain by 4lv4r0_
+[21Mar2025 18:08:44.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4lv4r0_ lost connection: Disconnected
+[21Mar2025 18:08:44.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ left the game
+[21Mar2025 18:11:51.252] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4lv4r0_[/127.132.149.60:48373] logged in with entity id 42199 at (5557.921738397076, 117.0, 1500.6910955039166)
+[21Mar2025 18:11:51.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ joined the game
+[21Mar2025 18:11:51.364] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to 4lv4r0_
+[21Mar2025 18:11:51.366] [Server thread/INFO] [Jade/]: Syncing config to 4lv4r0_ (ce03a180-1779-356e-84b8-33838dbd71c6)
+[21Mar2025 18:11:52.781] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from 4lv4r0_
+[21Mar2025 18:11:57.298] [Server thread/INFO] [do_a_barrel_roll/]: Client of 4lv4r0_ accepted server config.
+[21Mar2025 18:12:21.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4lv4r0_ lost connection: Timed out
+[21Mar2025 18:12:21.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ left the game
+[21Mar2025 18:12:21.396] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Mar2025 18:12:48.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4lv4r0_[/127.132.149.60:46837] logged in with entity id 42695 at (5557.921738397076, 117.0, 1500.6910955039166)
+[21Mar2025 18:12:48.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ joined the game
+[21Mar2025 18:12:48.990] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to 4lv4r0_
+[21Mar2025 18:12:48.992] [Server thread/INFO] [Jade/]: Syncing config to 4lv4r0_ (ce03a180-1779-356e-84b8-33838dbd71c6)
+[21Mar2025 18:12:50.448] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from 4lv4r0_
+[21Mar2025 18:12:53.155] [Server thread/INFO] [do_a_barrel_roll/]: Client of 4lv4r0_ accepted server config.
+[21Mar2025 18:13:02.192] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4lv4r0_ lost connection: Disconnected
+[21Mar2025 18:13:02.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ left the game
+[21Mar2025 18:13:54.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4lv4r0_[/127.132.149.60:45273] logged in with entity id 43221 at (5557.921738397076, 117.0, 1500.6910955039166)
+[21Mar2025 18:13:54.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ joined the game
+[21Mar2025 18:13:54.238] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to 4lv4r0_
+[21Mar2025 18:13:54.240] [Server thread/INFO] [Jade/]: Syncing config to 4lv4r0_ (ce03a180-1779-356e-84b8-33838dbd71c6)
+[21Mar2025 18:13:55.612] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from 4lv4r0_
+[21Mar2025 18:13:57.852] [Server thread/INFO] [do_a_barrel_roll/]: Client of 4lv4r0_ accepted server config.
+[21Mar2025 18:17:34.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsReaper_13> wa

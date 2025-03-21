@@ -358,7 +358,8 @@
       "minecraft:enderman": "2025-03-20 00:25:38 +0000",
       "minecraft:silverfish": "2025-03-20 00:51:18 +0000",
       "minecraft:stray": "2025-03-20 00:36:51 +0000",
-      "minecraft:zombie": "2025-03-19 23:08:22 +0000"
+      "minecraft:zombie": "2025-03-19 23:08:22 +0000",
+      "minecraft:zombie_villager": "2025-03-21 18:04:17 +0000"
     },
     "done": false
   },
@@ -4060,6 +4061,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-03-21 18:17:09 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/redstone/redwood_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-21 17:09:41 +0000"
@@ -4084,6 +4091,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-03-21 18:11:57 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-21 17:09:41 +0000"
@@ -4093,6 +4106,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-03-21 17:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-03-21 18:13:54 +0000"
     },
     "done": true
   },
