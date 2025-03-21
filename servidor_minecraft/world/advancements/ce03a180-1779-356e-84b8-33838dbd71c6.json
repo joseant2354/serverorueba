@@ -3872,6 +3872,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/magic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:53:57 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/tin_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2025-03-21 15:46:31 +0000"
@@ -3899,6 +3905,12 @@
   "productivebees:recipes/misc/stonecutter/dark_oak_canvas_hive": {
     "criteria": {
       "has_stonecutter": "2025-03-21 15:13:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:53:57 +0000"
     },
     "done": true
   },
@@ -4136,9 +4148,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/magic_door": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:53:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:53:57 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/driftwood_canvas_hive": {
     "criteria": {
       "has_stonecutter": "2025-03-21 15:13:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:53:57 +0000"
     },
     "done": true
   },
@@ -4151,6 +4181,12 @@
   "productivebees:recipes/misc/stonecutter/comb_canvas_expansion_box": {
     "criteria": {
       "has_stonecutter": "2025-03-21 15:13:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_button": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:53:57 +0000"
     },
     "done": true
   },
@@ -4181,6 +4217,18 @@
   "productivebees:recipes/misc/stonecutter/yucca_canvas_expansion_box": {
     "criteria": {
       "has_stonecutter": "2025-03-21 15:13:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_slab": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:53:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_sign": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:53:57 +0000"
     },
     "done": true
   },
@@ -4280,6 +4328,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-03-21 16:08:51 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/warped_canvas_hive": {
     "criteria": {
       "has_stonecutter": "2025-03-21 15:13:39 +0000"
@@ -4352,6 +4406,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/magic_fence": {
+    "criteria": {
+      "has_planks": "2025-03-21 15:53:57 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/tin_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-03-21 15:46:31 +0000"
@@ -4367,6 +4427,12 @@
   "alltheores:recipes/misc/lead_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-03-21 15:46:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
+    "criteria": {
+      "has_blue_hydrangea": "2025-03-21 15:55:45 +0000"
     },
     "done": true
   },
