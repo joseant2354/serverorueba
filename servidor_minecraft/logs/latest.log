@@ -2217,3 +2217,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [22Mar2025 02:19:56.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [What a Deal!]
 [22Mar2025 02:23:43.527] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [22Mar2025 02:23:43.527] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[22Mar2025 02:36:39.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [Tools of the Trade]
+[22Mar2025 02:40:24.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4lv4r0_ lost connection: Disconnected
+[22Mar2025 02:40:24.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ left the game
