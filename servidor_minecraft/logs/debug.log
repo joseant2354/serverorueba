@@ -11269,3 +11269,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [22Mar2025 01:50:15.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Mar2025 01:51:53.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teopiter lost connection: Disconnected
 [22Mar2025 01:51:53.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter left the game
+[22Mar2025 01:55:15.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 01:55:15.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 02:00:15.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 02:00:15.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
