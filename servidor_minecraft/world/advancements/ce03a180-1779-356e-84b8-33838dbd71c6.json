@@ -5690,7 +5690,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-22 13:54:09 +0000"
+      "requirement": "2025-03-22 14:09:09 +0000"
     },
     "done": false
   },
@@ -5781,6 +5781,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_slab": {
     "criteria": {
       "has_journal": "2025-03-22 13:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-22 14:05:35 +0000"
     },
     "done": true
   },
@@ -5895,6 +5901,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-03-22 13:40:42 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-03-22 13:54:59 +0000"
     },
     "done": true
   },
@@ -6624,6 +6636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-22 14:05:35 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_gravity": {
     "criteria": {
       "has_journal": "2025-03-22 13:40:42 +0000"
@@ -6825,6 +6843,12 @@
   "ars_nouveau:recipes/misc/water_essence_to_obsidian": {
     "criteria": {
       "has_journal": "2025-03-22 13:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-22 13:54:59 +0000"
     },
     "done": true
   },

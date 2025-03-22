@@ -14734,3 +14734,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [22Mar2025 13:55:37.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 left the game
 [22Mar2025 13:58:44.073] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [22Mar2025 13:58:44.074] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[22Mar2025 13:59:09.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 13:59:09.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 14:04:09.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 14:04:09.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 14:09:09.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 14:09:09.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
