@@ -580,6 +580,7 @@
       "minecraft:skeleton": "2025-03-19 22:10:16 +0000",
       "minecraft:ravager": "2025-03-20 20:28:14 +0000",
       "minecraft:vindicator": "2025-03-20 23:06:16 +0000",
+      "minecraft:magma_cube": "2025-03-22 15:07:27 +0000",
       "minecraft:piglin_brute": "2025-03-19 22:21:39 +0000",
       "minecraft:spider": "2025-03-19 22:10:31 +0000",
       "minecraft:creeper": "2025-03-20 21:03:18 +0000",
@@ -7988,7 +7989,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-22 14:59:17 +0000"
+      "requirement": "2025-03-22 15:09:17 +0000"
     },
     "done": false
   },
@@ -8010,6 +8011,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-22 15:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-03-22 15:03:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-03-22 14:58:10 +0000"
@@ -8028,6 +8041,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-03-22 15:07:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-03-22 15:03:43 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_true_sight": {
     "criteria": {
       "has_magic_scroll": "2025-03-22 14:43:05 +0000"
@@ -8043,6 +8068,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-03-22 14:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-03-22 15:03:42 +0000"
     },
     "done": true
   },

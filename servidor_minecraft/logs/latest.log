@@ -3928,3 +3928,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [22Mar2025 14:57:31.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [The Most Useful Key]
 [22Mar2025 14:57:36.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has reached the goal [A Fast Comeback]
 [22Mar2025 14:57:38.056] [Server thread/INFO] [do_a_barrel_roll/]: Client of 4lv4r0_ accepted server config.
+[22Mar2025 15:00:30.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [Spooky Scary Skeleton]
+[22Mar2025 15:00:50.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [Who is Cutting Onions?]
+[22Mar2025 15:02:08.282] [Server thread/WARN] [tombstone/]: The death event of the player 4lv4r0_ was canceled by another mod
+[22Mar2025 15:02:08.285] [Server thread/INFO] [tombstone/]: The player 4lv4r0_ has successfully been saved
+[22Mar2025 15:04:48.164] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Keith'/24005, l='ServerLevel[world]', x=623.64, y=53.00, z=318.86] died: Keith was slain by ItsReaper_13
+[22Mar2025 15:09:03.464] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Darkere the Curious'/28383, l='ServerLevel[world]', x=751.49, y=43.00, z=248.60] died: Darkere the Curious was slain by ItsReaper_13
