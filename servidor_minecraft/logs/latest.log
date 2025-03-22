@@ -3916,3 +3916,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [22Mar2025 14:42:30.680] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/22566, l='ServerLevel[world]', x=715.17, y=58.00, z=265.94] died: Withering Archer was slain by Teopiter
 [22Mar2025 14:43:01.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Magic Writing]
 [22Mar2025 14:43:05.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has reached the goal [I see clearly now]
+[22Mar2025 14:49:48.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Warped]
+[22Mar2025 14:54:59.519] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/24692, l='ServerLevel[world]', x=634.06, y=69.00, z=286.68] died: Withering Archer was slain by ItsReaper_13
+[22Mar2025 14:56:27.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Spooky Scary Skeleton]
+[22Mar2025 14:57:00.938] [Server thread/WARN] [tombstone/]: The death event of the player 4lv4r0_ was canceled by another mod
+[22Mar2025 14:57:00.940] [Server thread/INFO] [tombstone/]: The player 4lv4r0_ has successfully been saved
+[22Mar2025 14:57:11.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has completed the challenge [Almost Unkillable]
+[22Mar2025 14:57:11.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ burned to death
+[22Mar2025 14:57:11.297] [Server thread/INFO] [tombstone/]: The player 4lv4r0_ has successfully been saved
+[22Mar2025 14:57:21.272] [Server thread/INFO] [do_a_barrel_roll/]: Client of 4lv4r0_ accepted server config.
+[22Mar2025 14:57:31.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [The Most Useful Key]
+[22Mar2025 14:57:36.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has reached the goal [A Fast Comeback]
+[22Mar2025 14:57:38.056] [Server thread/INFO] [do_a_barrel_roll/]: Client of 4lv4r0_ accepted server config.

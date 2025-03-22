@@ -17786,3 +17786,68 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [22Mar2025 14:49:17.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Mar2025 14:49:17.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Mar2025 14:49:24.433] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 14:49:39.240] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 14:49:46.248] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 14:49:48.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Warped]
+[22Mar2025 14:50:05.315] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 14:50:42.687] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 14:50:44.253] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 14:50:47.453] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 14:50:47.456] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 14:51:30.532] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 14:51:34.137] [Worker-Main-20/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=404, y=46, z=288} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 14:51:34.263] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=400, y=30, z=241} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 14:51:34.570] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=413, y=54, z=475} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 14:51:44.732] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 14:53:45.725] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=828, y=22, z=572} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 14:53:52.983] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 14:54:17.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 14:54:17.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 14:54:31.877] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 14:54:59.519] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/24692, l='ServerLevel[world]', x=634.06, y=69.00, z=286.68] died: Withering Archer was slain by ItsReaper_13
+[22Mar2025 14:55:56.936] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:pipeline/starter1 is being run through DFU (hash 7029d0b79ac41d9906a6232893961fb12996dedb30f019a1ffd25531abf7dedb), this will cause launch time delays
+[22Mar2025 14:55:57.244] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:pipeline/starter2 is being run through DFU (hash ddc26bcf61e3d1abc407c7dc9be753d010c26377ab45b5b52b7ea5bdc47bd9e6), this will cause launch time delays
+[22Mar2025 14:55:57.261] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_t_vh is being run through DFU (hash 5bc7716d108a4761b75c39de67033a49376fbe8c13421ae494c579ae1a184346), this will cause launch time delays
+[22Mar2025 14:55:57.268] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_hv is being run through DFU (hash 3aec982944591826f611a9b8f41d334fac53703c65606b76fb4e516d321dda25), this will cause launch time delays
+[22Mar2025 14:55:57.271] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_4way is being run through DFU (hash e5cab7948f78a7404816897d8c76c0ce75b8c2f6e1f8747adf1e1043f5de49aa), this will cause launch time delays
+[22Mar2025 14:55:57.290] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_h_elbow is being run through DFU (hash 187b186afb7e113e96732f571801263d7d3d6970ae903104f8f869fa86d5f0a3), this will cause launch time delays
+[22Mar2025 14:55:57.298] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_t_hv is being run through DFU (hash dba45c8f2aefe31fd9ce43fec0d3d4881fd3450d873a1975582f9b89be4cb1e9), this will cause launch time delays
+[22Mar2025 14:55:57.302] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_h_long is being run through DFU (hash c418751d6e64a53f4015b0912a4f25dff04ef14c3506d65a52e704cac637ad2c), this will cause launch time delays
+[22Mar2025 14:55:57.310] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_h_s is being run through DFU (hash 47acc4579a87f16ba1077bc69e5bf5aad25a9c9ccc0d4cb1b40fe913c04a84a9), this will cause launch time delays
+[22Mar2025 14:55:57.313] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_vh is being run through DFU (hash eb54e308a44d5a7263d4b1ad66a9d000fb19e48da20be3f841d23cdbb4f1d842), this will cause launch time delays
+[22Mar2025 14:55:57.317] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_h_t is being run through DFU (hash b3b1e5cda1c75a3e163311ada74749564f36b287d2fb1993fc0dc223bb1154cf), this will cause launch time delays
+[22Mar2025 14:55:57.327] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_h_end is being run through DFU (hash 761264e158448d8fd264a2b50e18b5dadf94f26f1c413077b6fe1f4740aa62ad), this will cause launch time delays
+[22Mar2025 14:55:57.330] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_v is being run through DFU (hash ec54d9b15939fe1e6a690e369a65885538e0e20d30300025ffb2fe0c34839d65), this will cause launch time delays
+[22Mar2025 14:55:57.334] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:pipeline/large_hv is being run through DFU (hash 0d486243a8a586a535d43f25eb1419e96d57b723ececade05cd29fa7cc061edf), this will cause launch time delays
+[22Mar2025 14:55:57.344] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:pipeline/large_vh is being run through DFU (hash 1278b2a1b557f28bc4405df549546daa9f9ca30346126e17dfcee56cc8a2e14f), this will cause launch time delays
+[22Mar2025 14:55:57.353] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:pipeline/large_h is being run through DFU (hash a330ea22e2d0a93812d976d1ed4db2abcdb605e0e0ebce8cce879c26a66babfd), this will cause launch time delays
+[22Mar2025 14:55:57.357] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_v_tall is being run through DFU (hash 0e68aa9764aed3b45098013f517f6f8d76dc335274040037cd1d8ec14d80b5fb), this will cause launch time delays
+[22Mar2025 14:55:57.360] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_v_end is being run through DFU (hash ad3a3e70036b7ff0f5c7e9e2f3de980d7af5a2482350a9c9fb09df80893cdb25), this will cause launch time delays
+[22Mar2025 14:55:57.370] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:pipeline/large_v is being run through DFU (hash 9a3eebf61303d90fd4502147f865ebd0abcc670dbbdd17d08db0963749642d50), this will cause launch time delays
+[22Mar2025 14:55:58.163] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=741, y=40, z=585} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 14:56:21.838] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=388, y=40, z=476} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 14:56:26.786] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 14:56:27.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Spooky Scary Skeleton]
+[22Mar2025 14:56:31.725] [Worker-Main-20/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=378, y=68, z=420} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 14:56:31.799] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=371, y=16, z=491} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 14:56:31.942] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=369, y=42, z=229} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 14:56:31.950] [Worker-Main-20/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=378, y=24, z=185} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 14:56:32.051] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=373, y=14, z=145} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 14:56:49.999] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=356, y=16, z=294} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 14:57:00.938] [Server thread/WARN] [tombstone/]: The death event of the player 4lv4r0_ was canceled by another mod
+[22Mar2025 14:57:00.940] [Server thread/INFO] [tombstone/]: The player 4lv4r0_ has successfully been saved
+[22Mar2025 14:57:11.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has completed the challenge [Almost Unkillable]
+[22Mar2025 14:57:11.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ burned to death
+[22Mar2025 14:57:11.293] [Server thread/DEBUG] [tombstone/]: A new grave of the player 4lv4r0_ was created at position [x:592, y:32, z:291, dim:minecraft:the_nether]
+[22Mar2025 14:57:11.297] [Server thread/INFO] [tombstone/]: The player 4lv4r0_ has successfully been saved
+[22Mar2025 14:57:21.272] [Server thread/INFO] [do_a_barrel_roll/]: Client of 4lv4r0_ accepted server config.
+[22Mar2025 14:57:31.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [The Most Useful Key]
+[22Mar2025 14:57:36.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has reached the goal [A Fast Comeback]
+[22Mar2025 14:57:38.056] [Server thread/INFO] [do_a_barrel_roll/]: Client of 4lv4r0_ accepted server config.
+[22Mar2025 14:57:47.865] [Worker-Main-20/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=349, y=22, z=393} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 14:57:55.520] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=376, y=62, z=44} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 14:57:55.538] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=337, y=16, z=34} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 14:59:17.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 14:59:17.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 14:59:30.282] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=308, y=24, z=196} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 14:59:30.695] [Worker-Main-20/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=310, y=14, z=440} Block{productivebees:nether_quartz_nest}[facing=up]
