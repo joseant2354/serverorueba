@@ -3852,3 +3852,67 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [22Mar2025 13:55:37.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 left the game
 [22Mar2025 13:58:44.073] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [22Mar2025 13:58:44.074] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[22Mar2025 14:10:26.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4lv4r0_ moved too quickly! 0.7439242379487041,-0.9061582423409646,10.004140019157603
+[22Mar2025 14:17:34.211] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsReaper_13[/127.100.143.205:57045] logged in with entity id 13129 at (5548.745865539456, 118.0, 1473.300000011921)
+[22Mar2025 14:17:34.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 joined the game
+[22Mar2025 14:17:34.324] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to ItsReaper_13
+[22Mar2025 14:17:34.326] [Server thread/INFO] [Jade/]: Syncing config to ItsReaper_13 (06ff6de7-f288-359f-848a-e6b66b4db818)
+[22Mar2025 14:17:35.063] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from ItsReaper_13
+[22Mar2025 14:17:42.741] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsReaper_13 accepted server config.
+[22Mar2025 14:18:04.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsReaper_13 lost connection: Disconnected
+[22Mar2025 14:18:04.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 left the game
+[22Mar2025 14:18:04.293] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Mar2025 14:18:23.615] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsReaper_13[/127.100.143.205:51005] logged in with entity id 13757 at (5548.745865539456, 118.0, 1473.300000011921)
+[22Mar2025 14:18:23.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 joined the game
+[22Mar2025 14:18:23.686] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to ItsReaper_13
+[22Mar2025 14:18:23.687] [Server thread/INFO] [Jade/]: Syncing config to ItsReaper_13 (06ff6de7-f288-359f-848a-e6b66b4db818)
+[22Mar2025 14:18:24.757] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from ItsReaper_13
+[22Mar2025 14:18:29.248] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsReaper_13 accepted server config.
+[22Mar2025 14:24:32.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teopiter lost connection: Disconnected
+[22Mar2025 14:24:32.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter left the game
+[22Mar2025 14:28:58.852] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Teopiter[/127.49.188.182:52509] logged in with entity id 18639 at (5627.976563606123, 63.0, 1224.3386398701075)
+[22Mar2025 14:28:58.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter joined the game
+[22Mar2025 14:28:58.893] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Teopiter
+[22Mar2025 14:28:58.895] [Server thread/INFO] [Jade/]: Syncing config to Teopiter (ed29a93d-9849-3f13-9ddb-e0e5a8376ec0)
+[22Mar2025 14:28:59.412] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Teopiter
+[22Mar2025 14:29:05.357] [Server thread/INFO] [do_a_barrel_roll/]: Client of Teopiter accepted server config.
+[22Mar2025 14:29:28.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teopiter lost connection: Timed out
+[22Mar2025 14:29:28.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter left the game
+[22Mar2025 14:30:18.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Teopiter[/127.49.188.182:35825] logged in with entity id 19099 at (5627.976563606123, 63.0, 1224.3386398701075)
+[22Mar2025 14:30:18.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter joined the game
+[22Mar2025 14:30:18.796] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Teopiter
+[22Mar2025 14:30:18.797] [Server thread/INFO] [Jade/]: Syncing config to Teopiter (ed29a93d-9849-3f13-9ddb-e0e5a8376ec0)
+[22Mar2025 14:30:19.323] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Teopiter
+[22Mar2025 14:30:25.797] [Server thread/INFO] [do_a_barrel_roll/]: Client of Teopiter accepted server config.
+[22Mar2025 14:30:48.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teopiter lost connection: Timed out
+[22Mar2025 14:30:48.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter left the game
+[22Mar2025 14:31:28.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Teopiter[/127.49.188.182:33235] logged in with entity id 19573 at (5627.976563606123, 63.0, 1224.3386398701075)
+[22Mar2025 14:31:28.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter joined the game
+[22Mar2025 14:31:28.541] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Teopiter
+[22Mar2025 14:31:28.543] [Server thread/INFO] [Jade/]: Syncing config to Teopiter (ed29a93d-9849-3f13-9ddb-e0e5a8376ec0)
+[22Mar2025 14:31:28.869] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Teopiter
+[22Mar2025 14:31:31.894] [Server thread/INFO] [do_a_barrel_roll/]: Client of Teopiter accepted server config.
+[22Mar2025 14:38:07.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [Incendium]
+[22Mar2025 14:38:07.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [We Need to Go Deeper]
+[22Mar2025 14:38:11.344] [Server thread/INFO] [do_a_barrel_roll/]: Client of 4lv4r0_ accepted server config.
+[22Mar2025 14:38:11.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8577ms or 171 ticks behind
+[22Mar2025 14:38:11.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Incendium]
+[22Mar2025 14:38:11.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [We Need to Go Deeper]
+[22Mar2025 14:38:12.382] [Server thread/INFO] [do_a_barrel_roll/]: Client of Teopiter accepted server config.
+[22Mar2025 14:38:12.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Incendium]
+[22Mar2025 14:38:12.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [We Need to Go Deeper]
+[22Mar2025 14:38:13.725] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsReaper_13 accepted server config.
+[22Mar2025 14:38:13.940] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/21817, l='ServerLevel[world]', x=625.00, y=31.00, z=116.00] as it would cause deadlock
+[22Mar2025 14:38:21.588] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/21866, l='ServerLevel[world]', x=571.00, y=31.00, z=178.00] as it would cause deadlock
+[22Mar2025 14:38:27.869] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/22012, l='ServerLevel[world]', x=533.00, y=31.00, z=195.00] as it would cause deadlock
+[22Mar2025 14:38:30.062] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/22054, l='ServerLevel[world]', x=847.00, y=31.00, z=356.00] as it would cause deadlock
+[22Mar2025 14:39:10.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [A Terrible Fortress]
+[22Mar2025 14:39:17.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [A Terrible Fortress]
+[22Mar2025 14:39:20.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Into Fire]
+[22Mar2025 14:40:46.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [A Terrible Fortress]
+[22Mar2025 14:41:32.180] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/22452, l='ServerLevel[world]', x=726.73, y=61.00, z=245.65]
+[22Mar2025 14:42:17.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Epic!]
+[22Mar2025 14:42:28.679] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/22568, l='ServerLevel[world]', x=711.51, y=58.00, z=268.53] died: Withering Archer was slain by Teopiter
+[22Mar2025 14:42:30.680] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/22566, l='ServerLevel[world]', x=715.17, y=58.00, z=265.94] died: Withering Archer was slain by Teopiter
+[22Mar2025 14:43:01.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Magic Writing]
+[22Mar2025 14:43:05.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has reached the goal [I see clearly now]

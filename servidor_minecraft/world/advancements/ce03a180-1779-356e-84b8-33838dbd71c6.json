@@ -232,6 +232,7 @@
       "jade_cliffs": "2025-03-20 21:12:33 +0000",
       "mystic_grove": "2025-03-21 13:16:17 +0000",
       "old_growth_woodland": "2025-03-19 22:05:22 +0000",
+      "crystalline_chasm": "2025-03-22 14:38:11 +0000",
       "orchard": "2025-03-21 18:34:23 +0000",
       "overgrown_greens": "2025-03-20 15:46:13 +0000",
       "mediterranean_forest": "2025-03-19 23:20:14 +0000",
@@ -5690,7 +5691,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-03-22 14:09:09 +0000"
+      "requirement": "2025-03-22 14:49:17 +0000"
     },
     "done": false
   },
@@ -5799,6 +5800,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2025-03-22 13:40:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-03-22 14:38:07 +0000"
     },
     "done": true
   },
@@ -5955,6 +5962,12 @@
   "ars_nouveau:recipes/misc/sourcestone": {
     "criteria": {
       "has_journal": "2025-03-22 13:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-22 14:46:34 +0000"
     },
     "done": true
   },
@@ -6153,6 +6166,12 @@
   "ars_nouveau:recipes/misc/spell_prism": {
     "criteria": {
       "has_journal": "2025-03-22 13:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-03-22 14:18:39 +0000"
     },
     "done": true
   },
@@ -6396,6 +6415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-22 14:39:38 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-03-22 13:40:42 +0000"
@@ -6528,6 +6553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-22 14:39:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_containment": {
     "criteria": {
       "has_journal": "2025-03-22 13:40:42 +0000"
@@ -6549,6 +6580,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2025-03-22 13:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-03-22 14:40:46 +0000"
     },
     "done": true
   },
@@ -6711,6 +6748,18 @@
   "ars_nouveau:recipes/misc/alchemical_sourcelink": {
     "criteria": {
       "has_journal": "2025-03-22 13:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-22 14:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-22 14:46:34 +0000"
     },
     "done": true
   },
@@ -6936,6 +6985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-22 14:12:32 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-03-22 13:40:42 +0000"
@@ -7092,9 +7147,21 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-22 14:38:07 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-03-22 13:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-22 14:12:32 +0000"
     },
     "done": true
   },
@@ -7260,6 +7327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-22 14:39:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_challenge": {
     "criteria": {
       "has_journal": "2025-03-22 13:40:42 +0000"
@@ -7299,6 +7372,12 @@
   "ars_nouveau:recipes/misc/yellow_sbed": {
     "criteria": {
       "has_journal": "2025-03-22 13:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-03-22 14:18:39 +0000"
     },
     "done": true
   },
@@ -7353,6 +7432,12 @@
   "ars_nouveau:recipes/misc/sourcestone_large_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-03-22 13:40:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-03-22 14:12:35 +0000"
     },
     "done": true
   },
