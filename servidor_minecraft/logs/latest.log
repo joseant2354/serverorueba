@@ -3944,3 +3944,40 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [22Mar2025 15:15:22.305] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsReaper_13 accepted server config.
 [22Mar2025 15:15:35.452] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsReaper_13 accepted server config.
 [22Mar2025 15:17:56.886] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsReaper_13 accepted server config.
+[22Mar2025 15:20:18.712] [Server thread/WARN] [tombstone/]: The death event of the player Teopiter was canceled by another mod
+[22Mar2025 15:20:18.714] [Server thread/INFO] [tombstone/]: The player Teopiter has successfully been saved
+[22Mar2025 15:21:32.883] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Duke Leroy the Odd-Smelling'/34840, l='ServerLevel[world]', x=915.26, y=55.00, z=298.20] died: Duke Leroy the Odd-Smelling bled out
+[22Mar2025 15:23:20.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Catchy]
+[22Mar2025 15:26:46.142] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Mister Vinny the Hungry'/36341, l='ServerLevel[world]', x=830.26, y=49.25, z=280.44] died: Mister Vinny the Hungry was slain by ItsReaper_13
+[22Mar2025 15:31:12.281] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsReaper_13 lost connection: Disconnected
+[22Mar2025 15:31:12.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 left the game
+[22Mar2025 15:31:24.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsReaper_13[/127.100.143.205:43621] logged in with entity id 38525 at (636.6999999880791, 84.0, -210.69999998807907)
+[22Mar2025 15:31:24.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 joined the game
+[22Mar2025 15:31:24.867] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to ItsReaper_13
+[22Mar2025 15:31:24.870] [Server thread/INFO] [Jade/]: Syncing config to ItsReaper_13 (06ff6de7-f288-359f-848a-e6b66b4db818)
+[22Mar2025 15:31:25.676] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from ItsReaper_13
+[22Mar2025 15:31:30.717] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsReaper_13 accepted server config.
+[22Mar2025 15:32:03.047] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/38729, l='ServerLevel[world]', x=531.00, y=31.00, z=-418.00] as it would cause deadlock
+[22Mar2025 15:33:32.401] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/40149, l='ServerLevel[world]', x=333.00, y=31.00, z=-460.00] as it would cause deadlock
+[22Mar2025 15:34:01.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=145, y=56, z=-233} but found not block entity block Block{minecraft:lava}[level=8] at location
+[22Mar2025 15:34:01.594] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lava}[level=8] but failed at location BlockPos{x=145, y=56, z=-233}
+[22Mar2025 15:34:10.798] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/40822, l='ServerLevel[world]', x=36.00, y=127.00, z=-398.00] as it would cause deadlock
+[22Mar2025 15:34:16.406] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/40941, l='ServerLevel[world]', x=-4.00, y=31.00, z=-293.00] as it would cause deadlock
+[22Mar2025 15:34:31.011] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/41092, l='ServerLevel[world]', x=-54.00, y=31.00, z=-191.10] as it would cause deadlock
+[22Mar2025 15:34:43.014] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/41195, l='ServerLevel[world]', x=-145.00, y=31.00, z=-216.00] as it would cause deadlock
+[22Mar2025 15:35:08.268] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/41737, l='ServerLevel[world]', x=-13.00, y=31.00, z=114.00] as it would cause deadlock
+[22Mar2025 15:35:11.095] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/41776, l='ServerLevel[world]', x=-20.00, y=31.00, z=149.00] as it would cause deadlock
+[22Mar2025 15:35:12.464] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/41806, l='ServerLevel[world]', x=93.00, y=31.00, z=162.00] as it would cause deadlock
+[22Mar2025 15:35:12.464] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/41808, l='ServerLevel[world]', x=93.00, y=31.00, z=162.00] as it would cause deadlock
+[22Mar2025 15:35:18.867] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/41977, l='ServerLevel[world]', x=-73.00, y=31.00, z=229.00] as it would cause deadlock
+[22Mar2025 15:35:37.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Hellish Paradise]
+[22Mar2025 15:35:37.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Strange Biomes]
+[22Mar2025 15:35:47.200] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Mar2025 15:38:26.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsReaper_13 lost connection: Disconnected
+[22Mar2025 15:38:26.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 left the game
+[22Mar2025 15:38:35.994] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsReaper_13[/127.100.143.205:38095] logged in with entity id 43608 at (802.7866402723033, 82.0, 242.25013742640854)
+[22Mar2025 15:38:36.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 joined the game
+[22Mar2025 15:38:36.048] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to ItsReaper_13
+[22Mar2025 15:38:36.049] [Server thread/INFO] [Jade/]: Syncing config to ItsReaper_13 (06ff6de7-f288-359f-848a-e6b66b4db818)
+[22Mar2025 15:38:36.860] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from ItsReaper_13
+[22Mar2025 15:38:43.791] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsReaper_13 accepted server config.
