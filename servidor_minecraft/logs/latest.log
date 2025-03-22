@@ -2212,3 +2212,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [22Mar2025 01:47:28.456] [Server thread/INFO] [do_a_barrel_roll/]: Client of 4lv4r0_ accepted server config.
 [22Mar2025 01:51:53.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teopiter lost connection: Disconnected
 [22Mar2025 01:51:53.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter left the game
+[22Mar2025 02:07:42.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsReaper_13 lost connection: Disconnected
+[22Mar2025 02:07:42.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 left the game
