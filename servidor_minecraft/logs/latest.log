@@ -3934,3 +3934,13 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [22Mar2025 15:02:08.285] [Server thread/INFO] [tombstone/]: The player 4lv4r0_ has successfully been saved
 [22Mar2025 15:04:48.164] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Keith'/24005, l='ServerLevel[world]', x=623.64, y=53.00, z=318.86] died: Keith was slain by ItsReaper_13
 [22Mar2025 15:09:03.464] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Darkere the Curious'/28383, l='ServerLevel[world]', x=751.49, y=43.00, z=248.60] died: Darkere the Curious was slain by ItsReaper_13
+[22Mar2025 15:10:22.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teopiter> [name:"Portal", x:700, y:58, z:185, dim:minecraft:the_nether]
+[22Mar2025 15:10:49.323] [Server thread/INFO] [do_a_barrel_roll/]: Client of 4lv4r0_ accepted server config.
+[22Mar2025 15:12:34.288] [Server thread/INFO] [do_a_barrel_roll/]: Client of 4lv4r0_ accepted server config.
+[22Mar2025 15:12:44.670] [Server thread/INFO] [do_a_barrel_roll/]: Client of 4lv4r0_ accepted server config.
+[22Mar2025 15:12:57.189] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsReaper_13 accepted server config.
+[22Mar2025 15:13:30.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4lv4r0_ lost connection: Disconnected
+[22Mar2025 15:13:30.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ left the game
+[22Mar2025 15:15:22.305] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsReaper_13 accepted server config.
+[22Mar2025 15:15:35.452] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsReaper_13 accepted server config.
+[22Mar2025 15:17:56.886] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsReaper_13 accepted server config.
