@@ -6028,6 +6028,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-22 01:51:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-03-22 01:06:54 +0000"
@@ -6039,6 +6045,12 @@
       "has_beetroot": "2025-03-22 01:36:04 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-22 01:51:16 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
@@ -6058,6 +6070,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-22 01:51:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-03-22 01:34:44 +0000"
@@ -6076,17 +6094,41 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-22 01:51:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-22 01:51:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-03-22 01:02:16 +0000"
     },
     "done": true
   },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-22 01:51:16 +0000"
+    },
+    "done": false
+  },
   "productivebees:husbandry/bee_cage/nest_locator": {
     "criteria": {
       "get_item": "2025-03-22 01:17:10 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-22 01:51:16 +0000"
+    },
+    "done": false
   },
   "productivebees:husbandry/advanced_beehive": {
     "criteria": {
@@ -6111,6 +6153,36 @@
       "has_gold_nugget": "2025-03-22 01:16:42 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-22 01:51:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-22 01:51:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-22 01:51:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-22 01:51:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-22 01:51:16 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {

@@ -2195,3 +2195,20 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [22Mar2025 01:35:01.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4lv4r0_ lost connection: Disconnected
 [22Mar2025 01:35:01.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ left the game
 [22Mar2025 01:38:00.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [How long's this been here?]
+[22Mar2025 01:46:34.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4lv4r0_[/127.132.149.60:49449] logged in with entity id 27910 at (5570.5, 117.0, 1486.5)
+[22Mar2025 01:46:34.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ joined the game
+[22Mar2025 01:46:34.243] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to 4lv4r0_
+[22Mar2025 01:46:34.244] [Server thread/INFO] [Jade/]: Syncing config to 4lv4r0_ (ce03a180-1779-356e-84b8-33838dbd71c6)
+[22Mar2025 01:46:35.564] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from 4lv4r0_
+[22Mar2025 01:46:39.662] [Server thread/INFO] [do_a_barrel_roll/]: Client of 4lv4r0_ accepted server config.
+[22Mar2025 01:47:04.249] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 4lv4r0_ lost connection: Disconnected
+[22Mar2025 01:47:04.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ left the game
+[22Mar2025 01:47:04.301] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Mar2025 01:47:24.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4lv4r0_[/127.132.149.60:34971] logged in with entity id 28356 at (5570.5, 117.0, 1486.5)
+[22Mar2025 01:47:24.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ joined the game
+[22Mar2025 01:47:24.645] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to 4lv4r0_
+[22Mar2025 01:47:24.647] [Server thread/INFO] [Jade/]: Syncing config to 4lv4r0_ (ce03a180-1779-356e-84b8-33838dbd71c6)
+[22Mar2025 01:47:25.954] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from 4lv4r0_
+[22Mar2025 01:47:28.456] [Server thread/INFO] [do_a_barrel_roll/]: Client of 4lv4r0_ accepted server config.
+[22Mar2025 01:51:53.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teopiter lost connection: Disconnected
+[22Mar2025 01:51:53.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter left the game
