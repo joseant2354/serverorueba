@@ -2214,3 +2214,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [22Mar2025 01:51:53.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter left the game
 [22Mar2025 02:07:42.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsReaper_13 lost connection: Disconnected
 [22Mar2025 02:07:42.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 left the game
+[22Mar2025 02:19:56.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [What a Deal!]
+[22Mar2025 02:23:43.527] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[22Mar2025 02:23:43.527] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
