@@ -3842,3 +3842,13 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [22Mar2025 13:44:09.066] [Server thread/INFO] [Jade/]: Syncing config to ItsReaper_13 (06ff6de7-f288-359f-848a-e6b66b4db818)
 [22Mar2025 13:44:13.545] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from ItsReaper_13
 [22Mar2025 13:44:22.557] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsReaper_13 accepted server config.
+[22Mar2025 13:53:31.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Eterna, Quanta, Arcana]
+[22Mar2025 13:53:31.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [The Basics]
+[22Mar2025 13:53:31.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Enchanter]
+[22Mar2025 13:54:31.856] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/5819, l='ServerLevel[world]', x=5543.37, y=122.98, z=1455.51] died: Honeyed Archer was slain by ItsReaper_13
+[22Mar2025 13:54:59.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [The Basics]
+[22Mar2025 13:54:59.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [Enchanter]
+[22Mar2025 13:55:37.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsReaper_13 lost connection: Disconnected
+[22Mar2025 13:55:37.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 left the game
+[22Mar2025 13:58:44.073] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[22Mar2025 13:58:44.074] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]

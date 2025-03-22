@@ -5688,6 +5688,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-03-22 13:54:09 +0000"
+    },
+    "done": false
+  },
   "ars_nouveau:recipes/misc/dull_trinket": {
     "criteria": {
       "has_journal": "2025-03-22 13:40:42 +0000"

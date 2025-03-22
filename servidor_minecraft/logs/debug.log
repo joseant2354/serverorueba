@@ -14720,3 +14720,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [22Mar2025 13:46:07.151] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
 [22Mar2025 13:46:07.156] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
 [22Mar2025 13:46:07.156] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[22Mar2025 13:49:09.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 13:49:09.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 13:53:31.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Eterna, Quanta, Arcana]
+[22Mar2025 13:53:31.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [The Basics]
+[22Mar2025 13:53:31.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Enchanter]
+[22Mar2025 13:54:09.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 13:54:09.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 13:54:31.856] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/5819, l='ServerLevel[world]', x=5543.37, y=122.98, z=1455.51] died: Honeyed Archer was slain by ItsReaper_13
+[22Mar2025 13:54:59.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [The Basics]
+[22Mar2025 13:54:59.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [Enchanter]
+[22Mar2025 13:55:37.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsReaper_13 lost connection: Disconnected
+[22Mar2025 13:55:37.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 left the game
+[22Mar2025 13:58:44.073] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[22Mar2025 13:58:44.074] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
