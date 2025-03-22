@@ -4028,3 +4028,36 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [22Mar2025 15:53:23.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [War Pigs]
 [22Mar2025 15:53:53.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [Where Is The Stone Pen?]
 [22Mar2025 15:55:12.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [Straddle My Ol' Saddle]
+[22Mar2025 16:00:50.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teopiter moved wrongly!
+[22Mar2025 16:04:10.700] [Server thread/WARN] [tombstone/]: The death event of the player Teopiter was canceled by another mod
+[22Mar2025 16:04:10.704] [Server thread/INFO] [tombstone/]: The player Teopiter has successfully been saved
+[22Mar2025 16:05:28.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Straddle My Ol' Saddle]
+[22Mar2025 16:06:00.313] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50559, l='ServerLevel[world]', x=948.00, y=171.00, z=836.00] as it would cause deadlock
+[22Mar2025 16:12:09.050] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Jimmy the Supreme'/51903, l='ServerLevel[world]', x=878.19, y=60.00, z=702.92] died: Jimmy the Supreme was slain by ItsReaper_13
+[22Mar2025 16:13:06.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has reached the goal [Strange Mount]
+[22Mar2025 16:14:42.643] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/52736, l='ServerLevel[world]', x=785.00, y=158.00, z=986.00] as it would cause deadlock
+[22Mar2025 16:15:30.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [Pipe Dream]
+[22Mar2025 16:15:30.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Pipe Dream]
+[22Mar2025 16:15:33.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Pipe Dream]
+[22Mar2025 16:15:39.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [UNLIMITED POWER!!!]
+[22Mar2025 16:15:51.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [UNLIMITED POWER!!!]
+[22Mar2025 16:15:51.867] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/53122, l='ServerLevel[world]', x=605.00, y=31.00, z=979.00] as it would cause deadlock
+[22Mar2025 16:15:53.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [UNLIMITED POWER!!!]
+[22Mar2025 16:15:57.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has reached the goal [Ceci n'est pas un blaze]
+[22Mar2025 16:15:57.708] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/50150, l='ServerLevel[world]', x=780.22, y=50.61, z=787.24] died: Pipeline Sentry was slain by 4lv4r0_
+[22Mar2025 16:16:09.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has reached the goal [Ceci n'est pas un blaze]
+[22Mar2025 16:16:09.999] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/48439, l='ServerLevel[world]', x=780.05, y=50.23, z=807.94] died: Pipeline Sentry was slain by ItsReaper_13
+[22Mar2025 16:17:18.541] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/47407, l='ServerLevel[world]', x=772.46, y=33.33, z=756.40] died: Pipeline Sentry was slain by ItsReaper_13
+[22Mar2025 16:17:52.880] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/47408, l='ServerLevel[world]', x=783.92, y=32.11, z=757.39] died: Pipeline Sentry froze to death
+[22Mar2025 16:18:41.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has reached the goal [Ceci n'est pas un blaze]
+[22Mar2025 16:18:41.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/47457, l='ServerLevel[world]', x=723.15, y=33.00, z=761.14] died: Pipeline Sentry was slain by Teopiter
+[22Mar2025 16:18:44.893] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/47454, l='ServerLevel[world]', x=716.47, y=35.13, z=760.73] died: Pipeline Sentry was slain by ItsReaper_13
+[22Mar2025 16:18:49.617] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/47456, l='ServerLevel[world]', x=721.30, y=35.00, z=757.70] died: Pipeline Sentry was slain by 4lv4r0_
+[22Mar2025 16:19:06.037] [Server thread/WARN] [tombstone/]: The death event of the player Teopiter was canceled by another mod
+[22Mar2025 16:19:06.040] [Server thread/INFO] [tombstone/]: The player Teopiter has successfully been saved
+[22Mar2025 16:19:08.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter went off with a bang
+[22Mar2025 16:19:08.646] [Server thread/INFO] [tombstone/]: The player Teopiter has successfully been saved
+[22Mar2025 16:19:12.138] [Server thread/INFO] [do_a_barrel_roll/]: Client of Teopiter accepted server config.
+[22Mar2025 16:20:28.247] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/48440, l='ServerLevel[world]', x=733.83, y=34.00, z=809.31] died: Pipeline Sentry was slain by ItsReaper_13
+[22Mar2025 16:20:33.247] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/47448, l='ServerLevel[world]', x=734.70, y=36.20, z=819.70] died: Pipeline Sentry was slain by ItsReaper_13
+[22Mar2025 16:20:35.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/50149, l='ServerLevel[world]', x=733.34, y=34.80, z=814.20] died: Pipeline Sentry was slain by ItsReaper_13

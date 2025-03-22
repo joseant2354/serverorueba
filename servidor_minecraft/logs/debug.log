@@ -21191,3 +21191,111 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [22Mar2025 15:59:17.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Mar2025 15:59:17.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Mar2025 16:00:24.903] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:00:50.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teopiter moved wrongly!
+[22Mar2025 16:00:51.855] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:00:53.012] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:00:55.738] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:01:01.515] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:01:03.458] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:01:07.092] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:01:12.365] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:01:13.885] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:04:10.700] [Server thread/WARN] [tombstone/]: The death event of the player Teopiter was canceled by another mod
+[22Mar2025 16:04:10.704] [Server thread/INFO] [tombstone/]: The player Teopiter has successfully been saved
+[22Mar2025 16:04:17.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 16:04:17.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 16:05:28.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Straddle My Ol' Saddle]
+[22Mar2025 16:05:40.562] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=772, y=48, z=843} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 16:06:00.011] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1066, y=53, z=857} Block{productivebees:nether_brick_nest}[facing=north]
+[22Mar2025 16:06:00.313] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50559, l='ServerLevel[world]', x=948.00, y=171.00, z=836.00] as it would cause deadlock
+[22Mar2025 16:06:42.078] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=652, y=14, z=851} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 16:06:43.202] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:06:57.361] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:07:22.014] [Worker-Main-20/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=674, y=36, z=887} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 16:07:22.256] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=854, y=14, z=893} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 16:07:28.141] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:07:40.513] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1112, y=53, z=866} Block{productivebees:nether_brick_nest}[facing=north]
+[22Mar2025 16:07:42.457] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:07:46.456] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:07:51.598] [Worker-Main-20/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1121, y=57, z=848} Block{productivebees:nether_brick_nest}[facing=west]
+[22Mar2025 16:07:51.940] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:08:34.498] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 16:08:39.947] [Worker-Main-20/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=891, y=98, z=906} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 16:08:40.316] [Worker-Main-20/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=745, y=22, z=909} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 16:08:41.060] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 16:09:04.703] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:09:07.056] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:09:08.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:09:17.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 16:09:17.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 16:09:19.140] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:09:19.497] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:09:22.804] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:10:09.104] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 16:11:15.855] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 16:11:27.572] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=596, y=22, z=848} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 16:11:38.259] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1081, y=18, z=913} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 16:11:50.000] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=824, y=46, z=929} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 16:11:50.177] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=898, y=82, z=929} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 16:11:51.038] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:11:52.710] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:12:09.050] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Jimmy the Supreme'/51903, l='ServerLevel[world]', x=878.19, y=60.00, z=702.92] died: Jimmy the Supreme was slain by ItsReaper_13
+[22Mar2025 16:12:56.566] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[22Mar2025 16:13:06.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has reached the goal [Strange Mount]
+[22Mar2025 16:13:16.405] [Worker-Main-20/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1131, y=66, z=904} Block{productivebees:nether_brick_nest}[facing=south]
+[22Mar2025 16:13:52.050] [Worker-Main-20/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=812, y=62, z=977} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 16:14:03.342] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 16:14:17.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 16:14:17.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 16:14:20.799] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 16:14:41.849] [Worker-Main-20/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=853, y=74, z=995} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 16:14:41.863] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=871, y=46, z=999} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 16:14:42.643] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/52736, l='ServerLevel[world]', x=785.00, y=158.00, z=986.00] as it would cause deadlock
+[22Mar2025 16:14:46.388] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 16:14:51.283] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=789, y=42, z=1012} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 16:15:30.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [Pipe Dream]
+[22Mar2025 16:15:30.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Pipe Dream]
+[22Mar2025 16:15:33.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Pipe Dream]
+[22Mar2025 16:15:39.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [UNLIMITED POWER!!!]
+[22Mar2025 16:15:51.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [UNLIMITED POWER!!!]
+[22Mar2025 16:15:51.867] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/53122, l='ServerLevel[world]', x=605.00, y=31.00, z=979.00] as it would cause deadlock
+[22Mar2025 16:15:53.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [UNLIMITED POWER!!!]
+[22Mar2025 16:15:57.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has reached the goal [Ceci n'est pas un blaze]
+[22Mar2025 16:15:57.708] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/50150, l='ServerLevel[world]', x=780.22, y=50.61, z=787.24] died: Pipeline Sentry was slain by 4lv4r0_
+[22Mar2025 16:15:57.709] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 16:16:05.553] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=577, y=26, z=1013} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 16:16:09.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has reached the goal [Ceci n'est pas un blaze]
+[22Mar2025 16:16:09.999] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/48439, l='ServerLevel[world]', x=780.05, y=50.23, z=807.94] died: Pipeline Sentry was slain by ItsReaper_13
+[22Mar2025 16:16:10.000] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 16:16:19.324] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=547, y=22, z=790} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 16:16:28.371] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=532, y=44, z=691} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 16:17:18.541] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/47407, l='ServerLevel[world]', x=772.46, y=33.33, z=756.40] died: Pipeline Sentry was slain by ItsReaper_13
+[22Mar2025 16:17:18.542] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 16:17:52.880] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/47408, l='ServerLevel[world]', x=783.92, y=32.11, z=757.39] died: Pipeline Sentry froze to death
+[22Mar2025 16:17:52.880] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 16:18:11.649] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=524, y=126, z=620} Block{productivebees:soul_sand_nest}[facing=north]
+[22Mar2025 16:18:40.645] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=497, y=12, z=646} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 16:18:40.794] [Worker-Main-20/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=502, y=126, z=669} Block{productivebees:soul_sand_nest}[facing=up]
+[22Mar2025 16:18:41.035] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=508, y=90, z=597} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 16:18:41.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has reached the goal [Ceci n'est pas un blaze]
+[22Mar2025 16:18:41.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/47457, l='ServerLevel[world]', x=723.15, y=33.00, z=761.14] died: Pipeline Sentry was slain by Teopiter
+[22Mar2025 16:18:41.206] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 16:18:44.893] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/47454, l='ServerLevel[world]', x=716.47, y=35.13, z=760.73] died: Pipeline Sentry was slain by ItsReaper_13
+[22Mar2025 16:18:44.893] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 16:18:49.617] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/47456, l='ServerLevel[world]', x=721.30, y=35.00, z=757.70] died: Pipeline Sentry was slain by 4lv4r0_
+[22Mar2025 16:18:49.617] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 16:19:01.800] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=513, y=74, z=979} Block{productivebees:nether_quartz_nest}[facing=up]
+[22Mar2025 16:19:06.037] [Server thread/WARN] [tombstone/]: The death event of the player Teopiter was canceled by another mod
+[22Mar2025 16:19:06.040] [Server thread/INFO] [tombstone/]: The player Teopiter has successfully been saved
+[22Mar2025 16:19:08.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter went off with a bang
+[22Mar2025 16:19:08.643] [Server thread/DEBUG] [tombstone/]: A new grave of the player Teopiter was created at position [x:734, y:34, z:787, dim:minecraft:the_nether]
+[22Mar2025 16:19:08.646] [Server thread/INFO] [tombstone/]: The player Teopiter has successfully been saved
+[22Mar2025 16:19:12.138] [Server thread/INFO] [do_a_barrel_roll/]: Client of Teopiter accepted server config.
+[22Mar2025 16:19:17.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 16:19:17.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 16:20:28.247] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/48440, l='ServerLevel[world]', x=733.83, y=34.00, z=809.31] died: Pipeline Sentry was slain by ItsReaper_13
+[22Mar2025 16:20:28.247] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 16:20:33.247] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/47448, l='ServerLevel[world]', x=734.70, y=36.20, z=819.70] died: Pipeline Sentry was slain by ItsReaper_13
+[22Mar2025 16:20:33.247] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Mar2025 16:20:35.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/50149, l='ServerLevel[world]', x=733.34, y=34.80, z=814.20] died: Pipeline Sentry was slain by ItsReaper_13
+[22Mar2025 16:20:35.261] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
