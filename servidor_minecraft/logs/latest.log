@@ -3981,3 +3981,50 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [22Mar2025 15:38:36.049] [Server thread/INFO] [Jade/]: Syncing config to ItsReaper_13 (06ff6de7-f288-359f-848a-e6b66b4db818)
 [22Mar2025 15:38:36.860] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from ItsReaper_13
 [22Mar2025 15:38:43.791] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsReaper_13 accepted server config.
+[22Mar2025 15:41:04.231] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2da94ba8[id=<null>,name=4lv4r0_,properties={},legacy=false] (/127.132.149.60:38935) lost connection: Disconnected
+[22Mar2025 15:42:06.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teopiter> [name:"Portal", x:700, y:58, z:185, dim:minecraft:the_nether]
+[22Mar2025 15:42:30.073] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 4lv4r0_[/127.132.149.60:44953] logged in with entity id 44244 at (5571.182187006473, 117.5625, 1481.5113137479482)
+[22Mar2025 15:42:30.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ joined the game
+[22Mar2025 15:42:30.098] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to 4lv4r0_
+[22Mar2025 15:42:30.099] [Server thread/INFO] [Jade/]: Syncing config to 4lv4r0_ (ce03a180-1779-356e-84b8-33838dbd71c6)
+[22Mar2025 15:42:32.921] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from 4lv4r0_
+[22Mar2025 15:42:40.841] [Server thread/INFO] [do_a_barrel_roll/]: Client of 4lv4r0_ accepted server config.
+[22Mar2025 15:43:36.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Strange Biomes]
+[22Mar2025 15:43:36.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Darude - Firestorm]
+[22Mar2025 15:43:40.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Nightmare Fuel]
+[22Mar2025 15:43:50.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Darude - Firestorm]
+[22Mar2025 15:44:01.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Light-Sensitive]
+[22Mar2025 15:44:01.988] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/44601, l='ServerLevel[world]', x=1009.70, y=55.00, z=427.81] died: Desert Blaze was shot by ItsReaper_13 using [Nick's Windswept Recurve Bow of the Sniper]
+[22Mar2025 15:44:18.866] [Server thread/INFO] [do_a_barrel_roll/]: Client of 4lv4r0_ accepted server config.
+[22Mar2025 15:44:30.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsReaper_13 lost connection: Disconnected
+[22Mar2025 15:44:30.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 left the game
+[22Mar2025 15:44:41.300] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsReaper_13[/127.100.143.205:40195] logged in with entity id 45640 at (1009.6999999880791, 56.0, 437.69999998807907)
+[22Mar2025 15:44:41.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 joined the game
+[22Mar2025 15:44:41.351] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to ItsReaper_13
+[22Mar2025 15:44:41.352] [Server thread/INFO] [Jade/]: Syncing config to ItsReaper_13 (06ff6de7-f288-359f-848a-e6b66b4db818)
+[22Mar2025 15:44:42.017] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from ItsReaper_13
+[22Mar2025 15:44:45.844] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsReaper_13 accepted server config.
+[22Mar2025 15:45:12.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsReaper_13 lost connection: Disconnected
+[22Mar2025 15:45:12.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 left the game
+[22Mar2025 15:45:20.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsReaper_13[/127.100.143.205:37461] logged in with entity id 45792 at (1009.6999999880791, 56.0, 437.69999998807907)
+[22Mar2025 15:45:20.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 joined the game
+[22Mar2025 15:45:21.017] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to ItsReaper_13
+[22Mar2025 15:45:21.018] [Server thread/INFO] [Jade/]: Syncing config to ItsReaper_13 (06ff6de7-f288-359f-848a-e6b66b4db818)
+[22Mar2025 15:45:21.701] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from ItsReaper_13
+[22Mar2025 15:45:25.532] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItsReaper_13 accepted server config.
+[22Mar2025 15:45:56.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Light-Sensitive]
+[22Mar2025 15:45:56.740] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/45296, l='ServerLevel[world]', x=1029.27, y=103.49, z=415.30] died: Desert Blaze was slain by Teopiter
+[22Mar2025 15:46:06.585] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/46182, l='ServerLevel[world]', x=1258.00, y=31.00, z=235.00] as it would cause deadlock
+[22Mar2025 15:47:38.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [Strange Biomes]
+[22Mar2025 15:47:38.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [Darude - Firestorm]
+[22Mar2025 15:48:42.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Hellish Paradise]
+[22Mar2025 15:48:43.960] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/46841, l='ServerLevel[world]', x=1281.00, y=31.00, z=446.00] as it would cause deadlock
+[22Mar2025 15:50:54.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsReaper_13> [name:"Portal", x:698, y:58, z:188, dim:minecraft:the_nether]
+[22Mar2025 15:52:29.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [Those Were the Days]
+[22Mar2025 15:53:03.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [Those Were the Days]
+[22Mar2025 15:53:10.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [Those Were the Days]
+[22Mar2025 15:53:16.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teopiter has made the advancement [War Pigs]
+[22Mar2025 15:53:17.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsReaper_13 has made the advancement [War Pigs]
+[22Mar2025 15:53:23.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [War Pigs]
+[22Mar2025 15:53:53.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [Where Is The Stone Pen?]
+[22Mar2025 15:55:12.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 4lv4r0_ has made the advancement [Straddle My Ol' Saddle]
